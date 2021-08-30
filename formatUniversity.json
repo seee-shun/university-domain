@@ -1,6709 +1,6709 @@
 [
     {
         "name": "北海道大学",
-        "address": "hokudai",
+        "address": "@hokudai.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "北海道教育大学",
-        "address": "hokkyodai",
+        "address": "@hokkyodai.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "室蘭工業大学",
-        "address": "muroran-it",
+        "address": "@muroran-it.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "小樽商科大学",
-        "address": "otaru-uc",
+        "address": "@otaru-uc.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "帯広畜産大学",
-        "address": "obihiro",
+        "address": "@obihiro.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "旭川医科大学",
-        "address": "asahikawa-med",
+        "address": "@asahikawa-med.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "北見工業大学",
-        "address": "kitami-it",
+        "address": "@kitami-it.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "弘前大学",
-        "address": "hirosaki-u",
+        "address": "@hirosaki-u.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "岩手大学",
-        "address": "iwate-u",
+        "address": "@iwate-u.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "東北大学",
-        "address": "tohoku",
+        "address": "@tohoku.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "宮城教育大学",
-        "address": "miyakyo-u",
+        "address": "@miyakyo-u.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "秋田大学",
-        "address": "akita-u",
+        "address": "@akita-u.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "山形大学",
-        "address": "yamagata-u",
+        "address": "@yamagata-u.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "福島大学",
-        "address": "fukushima-u",
+        "address": "@fukushima-u.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "茨城大学",
-        "address": "ibaraki",
+        "address": "@ibaraki.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "筑波大学",
-        "address": "tsukuba",
+        "address": "@tsukuba.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "筑波技術大学",
-        "address": "tsukuba-tech",
+        "address": "@tsukuba-tech.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "宇都宮大学",
-        "address": "utsunomiya-u",
+        "address": "@utsunomiya-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "群馬大学",
-        "address": "gunma-u",
+        "address": "@gunma-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "埼玉大学",
-        "address": "saitama-u",
+        "address": "@saitama-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "千葉大学",
-        "address": "chiba-u",
+        "address": "@chiba-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京大学",
-        "address": "u-tokyo",
+        "address": "@u-tokyo.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京医科歯科大学",
-        "address": "tmd",
+        "address": "@tmd.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京外国語大学",
-        "address": "tufs",
+        "address": "@tufs.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京学芸大学",
-        "address": "u-gakugei",
+        "address": "@u-gakugei.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京農工大学",
-        "address": "tuat",
+        "address": "@tuat.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京芸術大学",
-        "address": "geidai",
+        "address": "@geidai.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京工業大学",
-        "address": "titech",
+        "address": "@titech.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京海洋大学",
-        "address": "kaiyodai",
+        "address": "@kaiyodai.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "お茶の水女子大学",
-        "address": "ocha",
+        "address": "@ocha.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "電気通信大学",
-        "address": "uec",
+        "address": "@uec.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "一橋大学",
-        "address": "hit-u",
+        "address": "@hit-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "横浜国立大学",
-        "address": "ynu",
+        "address": "@ynu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "新潟大学",
-        "address": "niigata-u",
+        "address": "@niigata-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "長岡技術科学大学",
-        "address": "nagaokaut",
+        "address": "@nagaokaut.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "上越教育大学",
-        "address": "juen",
+        "address": "@juen.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "山梨大学",
-        "address": "yamanashi",
+        "address": "@yamanashi.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "信州大学",
-        "address": "shinshu-u",
+        "address": "@shinshu-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "政策研究大学院大学",
-        "address": "grips",
+        "address": "@grips.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "総合研究大学院大学",
-        "address": "soken",
+        "address": "@soken.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "富山大学",
-        "address": "u-toyama",
+        "address": "@u-toyama.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "金沢大学",
-        "address": "kanazawa-u",
+        "address": "@kanazawa-u.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "福井大学",
-        "address": "u-fukui",
+        "address": "@u-fukui.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "岐阜大学",
-        "address": "gifu-u",
+        "address": "@gifu-u.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "静岡大学",
-        "address": "shizuoka",
+        "address": "@shizuoka.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "浜松医科大学",
-        "address": "hama-med",
+        "address": "@hama-med.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "名古屋大学",
-        "address": "nagoya-u",
+        "address": "@nagoya-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "愛知教育大学",
-        "address": "aichi-edu",
+        "address": "@aichi-edu.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "名古屋工業大学",
-        "address": "nitech",
+        "address": "@nitech.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "豊橋技術科学大学",
-        "address": "tut",
+        "address": "@tut.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "三重大学",
-        "address": "mie-u",
+        "address": "@mie-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "滋賀大学",
-        "address": "shiga-u",
+        "address": "@shiga-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "滋賀医科大学",
-        "address": "shiga-med",
+        "address": "@shiga-med.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都大学",
-        "address": "kyoto-u",
+        "address": "@kyoto-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都教育大学",
-        "address": "kyokyo-u",
+        "address": "@kyokyo-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都工芸繊維大学",
-        "address": "kit",
+        "address": "@kit.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪大学",
-        "address": "osaka-u",
+        "address": "@osaka-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪教育大学",
-        "address": "osaka-kyoiku",
+        "address": "@osaka-kyoiku.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "兵庫教育大学",
-        "address": "hyogo-u",
+        "address": "@hyogo-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "神戸大学",
-        "address": "kobe-u",
+        "address": "@kobe-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "奈良教育大学",
-        "address": "nara-edu",
+        "address": "@nara-edu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "奈良女子大学",
-        "address": "nara-wu",
+        "address": "@nara-wu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "和歌山大学",
-        "address": "wakayama-u",
+        "address": "@wakayama-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "北陸先端科学技術大学院大学",
-        "address": "jaist",
+        "address": "@jaist.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "奈良先端科学技術大学院大学",
-        "address": "naist",
+        "address": "@naist.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "鳥取大学",
-        "address": "tottori-u",
+        "address": "@tottori-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "島根大学",
-        "address": "shimane-u",
+        "address": "@shimane-u.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "岡山大学",
-        "address": "okayama-u",
+        "address": "@okayama-u.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "広島大学",
-        "address": "hiroshima-u",
+        "address": "@hiroshima-u.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "山口大学",
-        "address": "yamaguchi-u",
+        "address": "@yamaguchi-u.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "徳島大学",
-        "address": "tokushima-u",
+        "address": "@tokushima-u.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "鳴門教育大学",
-        "address": "naruto-u",
+        "address": "@naruto-u.ac.jp",
         "area": "四国",
         "school_color": ""
     },
     {
         "name": "香川大学",
-        "address": "kagawa-u",
+        "address": "@kagawa-u.ac.jp",
         "area": "四国",
         "school_color": ""
     },
     {
         "name": "愛媛大学",
-        "address": "ehime-u",
+        "address": "@ehime-u.ac.jp",
         "area": "四国",
         "school_color": ""
     },
     {
         "name": "高知大学",
-        "address": "kochi-u",
+        "address": "@kochi-u.ac.jp",
         "area": "四国",
         "school_color": ""
     },
     {
         "name": "福岡教育大学",
-        "address": "fukuoka-edu",
+        "address": "@fukuoka-edu.ac.jp",
         "area": "四国",
         "school_color": ""
     },
     {
         "name": "九州大学",
-        "address": "kyushu-u",
+        "address": "@kyushu-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "九州工業大学",
-        "address": "kyutech",
+        "address": "@kyutech.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "佐賀大学",
-        "address": "saga-u",
+        "address": "@saga-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "長崎大学",
-        "address": "nagasaki-u",
+        "address": "@nagasaki-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "熊本大学",
-        "address": "kumamoto-u",
+        "address": "@kumamoto-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大分大学",
-        "address": "oita-u",
+        "address": "@oita-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "宮崎大学",
-        "address": "miyazaki-u",
+        "address": "@miyazaki-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "鹿児島大学",
-        "address": "kagoshima-u",
+        "address": "@kagoshima-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "鹿屋体育大学",
-        "address": "nifs-k",
+        "address": "@nifs-k.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "琉球大学",
-        "address": "u-ryukyu",
+        "address": "@u-ryukyu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "釧路公立大学",
-        "address": "kushiro-pu",
+        "address": "@kushiro-pu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "公立はこだて未来大学",
-        "address": "fun",
+        "address": "@fun.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "札幌市立大学",
-        "address": "scu",
+        "address": "@scu.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "名寄市立大学",
-        "address": "nayoro",
+        "address": "@nayoro.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "札幌医科大学",
-        "address": "sapmed",
+        "address": "@web.sapmed.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "青森県立保健大学",
-        "address": "auhw",
+        "address": "@auhw.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "青森公立大学",
-        "address": "nebuta",
+        "address": "@nebuta.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "岩手県立大学",
-        "address": "iwate-pu",
+        "address": "@iwate-pu.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "宮城大学",
-        "address": "myu",
+        "address": "@myu.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "秋田県立大学",
-        "address": "akita-pu",
+        "address": "@akita-pu.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "国際教養大学",
-        "address": "aiu",
+        "address": "@aiu.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "秋田公立美術大学",
-        "address": "akibi",
+        "address": "@akibi.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "山形県立保健医療大学",
-        "address": "yachts",
+        "address": "@yachts.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "山形県立米沢栄養大学",
-        "address": "yone",
+        "address": "@u.yone.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "会津大学",
-        "address": "u-aizu",
+        "address": "@u-aizu.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "福島県立医科大学",
-        "address": "fmu",
+        "address": "@fmu.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "茨城県立医療大学",
-        "address": "ipu",
+        "address": "@ipu.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "群馬県立県民健康科学大学",
-        "address": "gchs",
+        "address": "@gchs.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "群馬県立女子大学",
-        "address": "gpwu",
+        "address": "@gpwu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "高崎経済大学",
-        "address": "tcue",
+        "address": "@tcue.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "前橋工科大学",
-        "address": "maebashi-it",
+        "address": "@maebashi-it.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "千葉県立保健医療大学",
-        "address": "chiba",
+        "address": "@pref.chiba.lg.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "埼玉県立大学",
-        "address": "spu",
+        "address": "@spu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "首都大学東京",
-        "address": "tmu",
+        "address": "@tmu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "産業技術大学院大学",
-        "address": "aiit",
+        "address": "@aiit.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "神奈川県立保健福祉大学",
-        "address": "kuhs",
+        "address": "@kuhs.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "横浜市立大学",
-        "address": "yokohama-cu",
+        "address": "@yokohama-cu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "新潟県立看護大学",
-        "address": "niigata-cn",
+        "address": "@niigata-cn.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "新潟県立大学",
-        "address": "unii",
+        "address": "@unii.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "長岡造形大学",
-        "address": "nagaoka-id",
+        "address": "@nagaoka-id.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "都留文科大学",
-        "address": "tsuru",
+        "address": "@tsuru.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "山梨県立大学",
-        "address": "yamanashi-ken",
+        "address": "@yamanashi-ken.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "長野県看護大学",
-        "address": "nagano-nurs",
+        "address": "@nagano-nurs.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "富山県立大学",
-        "address": "pu-toyama",
+        "address": "@pu-toyama.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "石川県立大学",
-        "address": "ishikawa-pu",
+        "address": "@ishikawa-pu.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "石川県立看護大学",
-        "address": "ishikawa-nu",
+        "address": "@ishikawa-nu.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "金沢美術工芸大学",
-        "address": "kanazawa-bidai",
+        "address": "@kanazawa-bidai.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "福井県立大学",
-        "address": "fpu",
+        "address": "@fpu.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "敦賀市立看護大学",
-        "address": "tsuruga-nu",
+        "address": "@tsuruga-nu.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "岐阜県立看護大学",
-        "address": "gifu-cn",
+        "address": "@gifu-cn.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "岐阜薬科大学",
-        "address": "gifu-pu",
+        "address": "@gifu-pu.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "情報科学芸術大学院大学",
-        "address": "iamas",
+        "address": "@iamas.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "静岡県立大学",
-        "address": "u-shizuoka-ken",
+        "address": "@u-shizuoka-ken.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "静岡文化芸術大学",
-        "address": "suac",
+        "address": "@suac.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "愛知県立大学",
-        "address": "aichi-pu",
+        "address": "@aichi-pu.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "愛知県立芸術大学",
-        "address": "aichi-fam-u",
+        "address": "@aichi-fam-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "名古屋市立大学",
-        "address": "nagoya-cu",
+        "address": "@nagoya-cu.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "三重県立看護大学",
-        "address": "mcn",
+        "address": "@mcn.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "滋賀県立大学",
-        "address": "usp",
+        "address": "@usp.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "京都市立芸術大学",
-        "address": "kcua",
+        "address": "@kcua.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都府立大学",
-        "address": "kpu",
+        "address": "@kpu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都府立医科大学",
-        "address": "kpu-m",
+        "address": "@kpu-m.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "福知山公立大学",
-        "address": "fukuchiyama",
+        "address": "@fukuchiyama.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪府立大学",
-        "address": "osakafu-u",
+        "address": "@osakafu-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪市立大学",
-        "address": "osaka-cu",
+        "address": "@osaka-cu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "神戸市看護大学",
-        "address": "kobe-ccn",
+        "address": "@kobe-ccn.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "神戸市外国語大学",
-        "address": "kobe-cufs",
+        "address": "@kobe-cufs.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "兵庫県立大学",
-        "address": "u-hyogo",
+        "address": "@u-hyogo.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "奈良県立医科大学",
-        "address": "naramed-u",
+        "address": "@naramed-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "奈良県立大学",
-        "address": "narapu",
+        "address": "@narapu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "和歌山県立医科大学",
-        "address": "wakayama-med",
+        "address": "@wakayama-med.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "公立鳥取環境大学",
-        "address": "kankyo-u",
+        "address": "@kankyo-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "島根県立大学",
-        "address": "u-shimane",
+        "address": "@u-shimane.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "岡山県立大学",
-        "address": "oka-pu",
+        "address": "@oka-pu.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "新見公立大学",
-        "address": "niimi-c",
+        "address": "@niimi-c.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "尾道市立大学",
-        "address": "onomichi-u",
+        "address": "@onomichi-u.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "県立広島大学",
-        "address": "pu-hiroshima",
+        "address": "@pu-hiroshima.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "広島市立大学",
-        "address": "hiroshima-cu",
+        "address": "@hiroshima-cu.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "福山市立大学",
-        "address": "fcu",
+        "address": "@fcu.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "下関市立大学",
-        "address": "shimonoseki-cu",
+        "address": "@shimonoseki-cu.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "山口県立大学",
-        "address": "yamaguchi-pu",
+        "address": "@yamaguchi-pu.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "山陽小野田市立山口東京理科大学",
-        "address": "tusy",
+        "address": "@tusy.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "香川県立保健医療大学",
-        "address": "kagawa",
+        "address": "@kagawa-puhs.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "愛媛県立医療技術大学",
-        "address": "epu",
+        "address": "@epu.ac.jp",
         "area": "四国",
         "school_color": ""
     },
     {
         "name": "高知県立大学",
-        "address": "u-kochi",
+        "address": "@u-kochi.ac.jp",
         "area": "四国",
         "school_color": ""
     },
     {
         "name": "高知工科大学",
-        "address": "kochi-tech",
+        "address": "@kochi-tech.ac.jp",
         "area": "四国",
         "school_color": ""
     },
     {
         "name": "北九州市立大学",
-        "address": "kitakyu-u",
+        "address": "@kitakyu-u.ac.jp",
         "area": "四国",
         "school_color": ""
     },
     {
         "name": "九州歯科大学",
-        "address": "kyu-dent",
+        "address": "@kyu-dent.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "福岡県立大学",
-        "address": "fukuoka-pu",
+        "address": "@fukuoka-pu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "福岡女子大学",
-        "address": "fwu",
+        "address": "@fwu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "長崎県立大学",
-        "address": "sun",
+        "address": "@sun.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "熊本県立大学",
-        "address": "pu-kumamoto",
+        "address": "@pu-kumamoto.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大分県立看護科学大学",
-        "address": "oita-nhs",
+        "address": "@oita-nhs.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "宮崎公立大学",
-        "address": "miyazaki-mu",
+        "address": "@miyazaki-mu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "宮崎県立看護大学",
-        "address": "mpu",
+        "address": "@mpu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "沖縄県立芸術大学",
-        "address": "okigei",
+        "address": "@okigei.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "沖縄県立看護大学",
-        "address": "okinawa-nurs",
+        "address": "@okinawa-nurs.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "名桜大学",
-        "address": "meio-u",
+        "address": "@meio-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "旭川大学",
-        "address": "asahikawa-u",
+        "address": "@asahikawa-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "札幌大学",
-        "address": "sapporo-u",
+        "address": "@sapporo-u.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "札幌大谷大学",
-        "address": "sapporo-otani",
+        "address": "@sapporo-otani.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "札幌学院大学",
-        "address": "sgu",
+        "address": "@sgu.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "札幌国際大学",
-        "address": "siu",
+        "address": "@siu.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "札幌保健医療大学",
-        "address": "sapporo-hokeniryou-u",
+        "address": "@sapporo-hokeniryou-u.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "千歳科学技術大学",
-        "address": "chitose",
+        "address": "@chitose.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "天使大学",
-        "address": "tenshi",
+        "address": "@tenshi.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "道都大学",
-        "address": "dohto",
+        "address": "@dohto.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "苫小牧駒澤大学",
-        "address": "t-komazawa",
+        "address": "@t-komazawa.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "日本医療大学",
-        "address": "nihoniryo-c",
+        "address": "@nihoniryo-c.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "日本赤十字北海道看護大学",
-        "address": "rchokkaido-cn",
+        "address": "@rchokkaido-cn.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "函館大学",
-        "address": "hakodate-u",
+        "address": "@hakodate-u.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "藤女子大学",
-        "address": "fujijoshi",
+        "address": "@fujijoshi.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "北翔大学",
-        "address": "hokusho-u",
+        "address": "@hokusho-u.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "北星学園大学",
-        "address": "hokusei",
+        "address": "@hokusei.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "北海学園大学",
-        "address": "hgu",
+        "address": "@hgu.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "北海商科大学",
-        "address": "hokkai",
+        "address": "@hokkai.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "北海道医療大学",
-        "address": "hoku-iryo-u",
+        "address": "@hoku-iryo-u.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "北海道科学大学",
-        "address": "hit",
+        "address": "@hit.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "北海道情報大学",
-        "address": "do-johodai",
+        "address": "@do-johodai.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "北海道文教大学",
-        "address": "do-bunkyodai",
+        "address": "@do-bunkyodai.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "北海道薬科大学",
-        "address": "hokuyakudai",
+        "address": "@hokuyakudai.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "酪農学園大学",
-        "address": "rakuno",
+        "address": "@rakuno.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "稚内北星学園大学",
-        "address": "wakhok",
+        "address": "@wakhok.ac.jp",
         "area": "北海道",
         "school_color": ""
     },
     {
         "name": "青森大学",
-        "address": "aomori-u",
+        "address": "@aomori-u.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "青森中央学院大学",
-        "address": "aomoricgu",
+        "address": "@aomoricgu.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "東北女子大学",
-        "address": "tojo",
+        "address": "@tojo.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "八戸学院大学",
-        "address": "hachinohe-u",
+        "address": "@hachinohe-u.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "八戸工業大学",
-        "address": "hi-tech",
+        "address": "@hi-tech.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "弘前医療福祉大学",
-        "address": "hirosakiuhw",
+        "address": "@hirosakiuhw.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "弘前学院大学",
-        "address": "hirogaku-u",
+        "address": "@hirogaku-u.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "岩手医科大学",
-        "address": "iwate-med",
+        "address": "@iwate-med.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "富士大学",
-        "address": "fujidai",
+        "address": "@fujidai.net",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "盛岡大学",
-        "address": "morioka-u",
+        "address": "@morioka-u.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "石巻専修大学",
-        "address": "senshu-u",
+        "address": "@senshu-u.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "尚絅学院大学",
-        "address": "shokei",
+        "address": "@shokei.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "仙台大学",
-        "address": "sendaidaigaku",
+        "address": "@sendaidaigaku.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "仙台白百合女子大学",
-        "address": "sendai-shirayuri",
+        "address": "@sendai-shirayuri.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "東北学院大学",
-        "address": "tohoku-gakuin",
+        "address": "@tohoku-gakuin.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "東北工業大学",
-        "address": "tohtech",
+        "address": "@tohtech.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "東北生活文化大学",
-        "address": "mishima",
+        "address": "@mishima.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "東北福祉大学",
-        "address": "tfu",
+        "address": "@tfu.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "東北文化学園大学",
-        "address": "tbgu",
+        "address": "@bwu.tbgu.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "東北医科薬科大学",
-        "address": "tohoku-pharm",
+        "address": "@tohoku-pharm.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "宮城学院女子大学",
-        "address": "mgu",
+        "address": "@mgu.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "秋田看護福祉大学",
-        "address": "well",
+        "address": "@well.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "日本赤十字秋田看護大学",
-        "address": "rcakita",
+        "address": "@rcakita.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "ノースアジア大学",
-        "address": "nau",
+        "address": "@nau.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "東北芸術工科大学",
-        "address": "tuad",
+        "address": "@tuad.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "東北公益文科大学",
-        "address": "koeki-u",
+        "address": "@koeki-u.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "東北文教大学",
-        "address": "t-bunkyo",
+        "address": "@t-bunkyo.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "いわき明星大学",
-        "address": "iwakimu",
+        "address": "@iwakimu.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "奥羽大学",
-        "address": "ohu-u",
+        "address": "@ohu-u.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "郡山女子大学",
-        "address": "koriyama-kgc",
+        "address": "@koriyama-kgc.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "東日本国際大学",
-        "address": "shk",
+        "address": "@shk.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "福島学院大学",
-        "address": "fukushima-college",
+        "address": "@fukushima-college.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "茨城キリスト教大学",
-        "address": "icc",
+        "address": "@icc.ac.jp",
         "area": "東北",
         "school_color": ""
     },
     {
         "name": "筑波学院大学",
-        "address": "tsukuba-g",
+        "address": "@tsukuba-g.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "つくば国際大学",
-        "address": "ktt",
+        "address": "@ktt.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "常磐大学",
-        "address": "tokiwa",
+        "address": "@tokiwa.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本ウェルネススポーツ大学",
-        "address": "nihonwellness",
+        "address": "@nihonwellness.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "流通経済大学",
-        "address": "rku",
+        "address": "@rku.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "足利工業大学",
-        "address": "ashitech",
+        "address": "@ashitech.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "宇都宮共和大学",
-        "address": "kyowa-u",
+        "address": "@kyowa-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "国際医療福祉大学",
-        "address": "iuhw",
+        "address": "@iuhw.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "作新学院大学",
-        "address": "sakushin-u",
+        "address": "@sakushin-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "自治医科大学",
-        "address": "jichi",
+        "address": "@jichi.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "獨協医科大学",
-        "address": "dokkyomed",
+        "address": "@dokkyomed.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "白鴎大学",
-        "address": "hakuoh",
+        "address": "@hakuoh.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "文星芸術大学",
-        "address": "bunsei",
+        "address": "@bunsei.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "関東学園大学",
-        "address": "kanto-gakuen",
+        "address": "@kanto-gakuen.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "共愛学園前橋国際大学",
-        "address": "kyoai",
+        "address": "@kyoai.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "桐生大学",
-        "address": "kiryu-u",
+        "address": "@kiryu-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "群馬医療福祉大学",
-        "address": "shoken-gakuen",
+        "address": "@shoken-gakuen.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "群馬パース大学",
-        "address": "paz",
+        "address": "@paz.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "上武大学",
-        "address": "jobu",
+        "address": "@jobu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "創造学園大学",
-        "address": "souzou",
+        "address": "@souzou.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "高崎健康福祉大学",
-        "address": "takasaki-u",
+        "address": "@takasaki-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "高崎商科大学",
-        "address": "tuc",
+        "address": "@tuc.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京福祉大学",
-        "address": "tokyo-fukushi",
+        "address": "@tokyo-fukushi.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "浦和大学",
-        "address": "urawa",
+        "address": "@urawa.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "共栄大学",
-        "address": "kyoei",
+        "address": "@kyoei.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "埼玉医科大学",
-        "address": "saitama-med",
+        "address": "@saitama-med.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "埼玉学園大学",
-        "address": "saigaku",
+        "address": "@saigaku.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "埼玉工業大学",
-        "address": "sit",
+        "address": "@sit.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "十文字学園女子大学",
-        "address": "jumonji-u",
+        "address": "@jumonji-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "城西大学",
-        "address": "josai",
+        "address": "@josai.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "尚美学園大学",
-        "address": "shobi-u",
+        "address": "@shobi-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "女子栄養大学",
-        "address": "eiyo",
+        "address": "@eiyo.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "駿河台大学",
-        "address": "surugadai",
+        "address": "@surugadai.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "聖学院大学",
-        "address": "seigakuin",
+        "address": "@seigakuin.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "西武文理大学",
-        "address": "bunri-c",
+        "address": "@bunri-c.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京国際大学",
-        "address": "tiu",
+        "address": "@tiu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東都医療大学",
-        "address": "tohto",
+        "address": "@tohto.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東邦音楽大学",
-        "address": "toho-music",
+        "address": "@toho-music.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "獨協大学",
-        "address": "dokkyo",
+        "address": "@dokkyo.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本医療科学大学",
-        "address": "nims",
+        "address": "@nims.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本工業大学",
-        "address": "nit",
+        "address": "@nit.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本保健医療大学",
-        "address": "jhsu",
+        "address": "@jhsu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本薬科大学",
-        "address": "nihonyakka",
+        "address": "@nihonyakka.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "人間総合科学大学",
-        "address": "human",
+        "address": "@human.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "文教大学",
-        "address": "bunkyo",
+        "address": "@bunkyo.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "平成国際大学",
-        "address": "hiu",
+        "address": "@hiu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "武蔵野学院大学",
-        "address": "musa",
+        "address": "@musa.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "明海大学",
-        "address": "meikai",
+        "address": "@meikai.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "開智国際大学",
-        "address": "kaichi",
+        "address": "@kaichi.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "ものつくり大学",
-        "address": "iot",
+        "address": "@iot.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "愛国学園大学",
-        "address": "aikoku-u",
+        "address": "@aikoku-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "植草学園大学",
-        "address": "uekusa",
+        "address": "@uekusa.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "江戸川大学",
-        "address": "edogawa-u",
+        "address": "@edogawa-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "亀田医療大学",
-        "address": "kameda",
+        "address": "@kameda.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "川村学園女子大学",
-        "address": "kgwu",
+        "address": "@kgwu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "神田外語大学",
-        "address": "kandagaigo",
+        "address": "@kandagaigo.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "敬愛大学",
-        "address": "u-keiai",
+        "address": "@u-keiai.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "国際武道大学",
-        "address": "budo-u",
+        "address": "@budo-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "三育学院大学",
-        "address": "saniku",
+        "address": "@saniku.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "秀明大学",
-        "address": "shumei-u",
+        "address": "@shumei-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "淑徳大学",
-        "address": "shukutoku",
+        "address": "@shukutoku.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "城西国際大学",
-        "address": "jiu",
+        "address": "@jiu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "聖徳大学",
-        "address": "seitoku",
+        "address": "@seitoku.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "清和大学",
-        "address": "seiwa-univ",
+        "address": "@seiwa-univ.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "千葉科学大学",
-        "address": "cis",
+        "address": "@cis.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "千葉経済大学",
-        "address": "cku",
+        "address": "@cku.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "千葉工業大学",
-        "address": "it-chiba",
+        "address": "@it-chiba.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "千葉商科大学",
-        "address": "cuc",
+        "address": "@cuc.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "中央学院大学",
-        "address": "cgu",
+        "address": "@cgu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京基督教大学",
-        "address": "tci",
+        "address": "@tci.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京情報大学",
-        "address": "tuis",
+        "address": "@tuis.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "了徳寺大学",
-        "address": "ryotokuji-u",
+        "address": "@ryotokuji-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "麗澤大学",
-        "address": "reitaku-u",
+        "address": "@reitaku-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "和洋女子大学",
-        "address": "wayo",
+        "address": "@wayo.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "麻布大学",
-        "address": "azabu-u",
+        "address": "@azabu-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "SBI大学院大学",
-        "address": "sbi-u",
+        "address": "@sbi-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "神奈川大学",
-        "address": "kanagawa-u",
+        "address": "@kanagawa-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "神奈川工科大学",
-        "address": "kait",
+        "address": "@kait.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "神奈川歯科大学",
-        "address": "kdu",
+        "address": "@kdu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "鎌倉女子大学",
-        "address": "kamakura-u",
+        "address": "@kamakura-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "関東学院大学",
-        "address": "kanto-gakuin",
+        "address": "@kanto-gakuin.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "相模女子大学",
-        "address": "sagami-wu",
+        "address": "@sagami-wu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "松蔭大学",
-        "address": "shoin-u",
+        "address": "@shoin-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "湘南医療大学",
-        "address": "sums",
+        "address": "@sums.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "湘南工科大学",
-        "address": "shonan-it",
+        "address": "@shonan-it.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "情報セキュリティ大学院大学",
-        "address": "iisec",
+        "address": "@iisec.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "昭和音楽大学",
-        "address": "tosei-showa-music",
+        "address": "@tosei-showa-music.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "星槎大学",
-        "address": "seisa",
+        "address": "@seisa.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "聖マリアンナ医科大学",
-        "address": "marianna-u",
+        "address": "@marianna-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "洗足学園音楽大学",
-        "address": "senzoku",
+        "address": "@senzoku.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "鶴見大学",
-        "address": "tsurumi-u",
+        "address": "@tsurumi-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "田園調布学園大学",
-        "address": "dcu",
+        "address": "@dcu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "桐蔭横浜大学",
-        "address": "toin",
+        "address": "@cc.toin.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東海大学",
-        "address": "u-tokai",
+        "address": "@u-tokai.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東洋英和女学院大学",
-        "address": "toyoeiwa",
+        "address": "@toyoeiwa.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本映画大学",
-        "address": "eiga",
+        "address": "@eiga.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "フェリス女学院大学",
-        "address": "ferris",
+        "address": "@ferris.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "八洲学園大学",
-        "address": "yashima",
+        "address": "@yashima.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "横浜商科大学",
-        "address": "shodai",
+        "address": "@shodai.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "横浜創英大学",
-        "address": "soei",
+        "address": "@soei.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "横浜美術大学",
-        "address": "yokohama-art",
+        "address": "@yokohama-art.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "横浜薬科大学",
-        "address": "hamayaku",
+        "address": "@hamayaku.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "青山学院大学",
-        "address": "aoyama",
+        "address": "@aoyama.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "亜細亜大学",
-        "address": "asia-u",
+        "address": "@asia-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "跡見学園女子大学",
-        "address": "atomi",
+        "address": "@atomi.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "上野学園大学",
-        "address": "uenogakuen",
+        "address": "@uenogakuen.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "映画専門大学院大学",
-        "address": "toho-univ",
+        "address": "@toho-univ.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "桜美林大学",
-        "address": "obirin",
+        "address": "@obirin.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "大妻女子大学",
-        "address": "otsuma",
+        "address": "@gakuin.otsuma.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "大原大学院大学",
-        "address": "o-hara",
+        "address": "@o-hara.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "嘉悦大学",
-        "address": "kaetsu",
+        "address": "@kaetsu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "学習院大学",
-        "address": "gakushuin",
+        "address": "@gakushuin.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "学習院女子大学",
-        "address": "gakushuin",
+        "address": "@gwc.gakushuin.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "北里大学",
-        "address": "kitasato-u",
+        "address": "@kitasato-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "共立女子大学",
-        "address": "kyoritsu-wu",
+        "address": "@kyoritsu-wu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "杏林大学",
-        "address": "kyorin-u",
+        "address": "@kyorin-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "国立音楽大学",
-        "address": "kunitachi",
+        "address": "@kunitachi.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "グロービス経営大学院大学",
-        "address": "globis",
+        "address": "@mba.globis.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "慶應義塾大学",
-        "address": "keio",
+        "address": "@keio.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "恵泉女学園大学",
-        "address": "keisen",
+        "address": "@keisen.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "工学院大学",
-        "address": "kogakuin",
+        "address": "@kogakuin.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "國學院大學",
-        "address": "kokugakuin",
+        "address": "@kokugakuin.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "国際基督教大学",
-        "address": "icu",
+        "address": "@icu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "国際仏教学大学院大学",
-        "address": "icabs",
+        "address": "@icabs.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "国士舘大学",
-        "address": "kokushikan",
+        "address": "@kokushikan.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "こども教育宝仙大学",
-        "address": "hosen",
+        "address": "@hosen.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "駒澤大学",
-        "address": "komazawa-u",
+        "address": "@komazawa-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "駒沢女子大学",
-        "address": "komajo",
+        "address": "@komajo.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "産業能率大学",
-        "address": "sanno",
+        "address": "@sanno.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "事業構想大学院大学",
-        "address": "mpd",
+        "address": "@mpd.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "実践女子大学",
-        "address": "jissen",
+        "address": "@jissen.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "芝浦工業大学",
-        "address": "shibaura-it",
+        "address": "@shibaura-it.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "順天堂大学",
-        "address": "juntendo",
+        "address": "@juntendo.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "上智大学",
-        "address": "sophia",
+        "address": "@sophia.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "昭和大学",
-        "address": "showa-u",
+        "address": "@showa-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "昭和女子大学",
-        "address": "swu",
+        "address": "@swu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "昭和薬科大学",
-        "address": "shoyaku",
+        "address": "@shoyaku.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "女子美術大学",
-        "address": "joshibi",
+        "address": "@joshibi.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "白梅学園大学",
-        "address": "shiraume",
+        "address": "@daigaku.shiraume.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "白百合女子大学",
-        "address": "shirayuri",
+        "address": "@shirayuri.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "杉野服飾大学",
-        "address": "sugino-fc",
+        "address": "@sugino-fc.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "成蹊大学",
-        "address": "seikei",
+        "address": "@seikei.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "成城大学",
-        "address": "seijo",
+        "address": "@seijo.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "創価大学",
-        "address": "soka",
+        "address": "@soka.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "聖心女子大学",
-        "address": "u-sacred-heart",
+        "address": "@u-sacred-heart.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "清泉女子大学",
-        "address": "seisen-u",
+        "address": "@seisen-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "聖路加国際大学",
-        "address": "slcn",
+        "address": "@slcn.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "大正大学",
-        "address": "tais",
+        "address": "@tais.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "大東文化大学",
-        "address": "daito",
+        "address": "@daito.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "高千穂大学",
-        "address": "takachiho",
+        "address": "@takachiho.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "専修大学",
-        "address": "senshu-u",
+        "address": "@senshu-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "拓殖大学",
-        "address": "takushoku-u",
+        "address": "@takushoku-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "多摩大学",
-        "address": "tama",
+        "address": "@tama.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "玉川大学",
-        "address": "tamagawa",
+        "address": "@tamagawa.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "多摩美術大学",
-        "address": "tamabi",
+        "address": "@tamabi.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "中央大学",
-        "address": "chuo-u",
+        "address": "@chuo-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "津田塾大学",
-        "address": "tsuda",
+        "address": "@tsuda.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "帝京大学",
-        "address": "teikyo-u",
+        "address": "@teikyo-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "帝京科学大学",
-        "address": "ntu",
+        "address": "@ntu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "帝京平成大学",
-        "address": "thu",
+        "address": "@thu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "デジタルハリウッド大学",
-        "address": "dhw",
+        "address": "@dhw.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京有明医療大学",
-        "address": "tau",
+        "address": "@tau.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京医科大学",
-        "address": "tokyo-med",
+        "address": "@tokyo-med.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京医療学院大学",
-        "address": "u-ths",
+        "address": "@u-ths.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京医療保健大学",
-        "address": "thcu",
+        "address": "@thcu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京音楽大学",
-        "address": "tokyo-ondai",
+        "address": "@tokyo-ondai.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京家政大学",
-        "address": "tokyo-kasei",
+        "address": "@tokyo-kasei.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京家政学院大学",
-        "address": "kasei-gakuin",
+        "address": "@kasei-gakuin.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京経済大学",
-        "address": "tku",
+        "address": "@tku.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京工科大学",
-        "address": "teu",
+        "address": "@teu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京工芸大学",
-        "address": "t-kougei",
+        "address": "@t-kougei.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京歯科大学",
-        "address": "tdc",
+        "address": "@tdc.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京慈恵会医科大学",
-        "address": "jikei",
+        "address": "@jikei.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京純心大学",
-        "address": "t-junshin",
+        "address": "@t-junshin.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京女学館大学",
-        "address": "tjk",
+        "address": "@tjk.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京女子大学",
-        "address": "twcu",
+        "address": "@office.twcu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京女子医科大学",
-        "address": "twmu",
+        "address": "@twmu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京女子体育大学",
-        "address": "twcpe",
+        "address": "@twcpe.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京神学大学",
-        "address": "tuts",
+        "address": "@tuts.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京聖栄大学",
-        "address": "tsc-05",
+        "address": "@tsc-05.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京成徳大学",
-        "address": "tsu",
+        "address": "@tsu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京造形大学",
-        "address": "zokei",
+        "address": "@zokei.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京電機大学",
-        "address": "dendai",
+        "address": "@atom.dendai.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京都市大学",
-        "address": "tcu",
+        "address": "@tcu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京農業大学",
-        "address": "nodai",
+        "address": "@nodai.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京富士大学",
-        "address": "fuji",
+        "address": "@fuji.net",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京未来大学",
-        "address": "tokyomirai",
+        "address": "@tokyomirai.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京薬科大学",
-        "address": "toyaku",
+        "address": "@toyaku.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東京理科大学",
-        "address": "tus",
+        "address": "@tus.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東邦大学",
-        "address": "toho-u",
+        "address": "@toho-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "桐朋学園大学",
-        "address": "tohomusic",
+        "address": "@tohomusic.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東洋大学",
-        "address": "toyo",
+        "address": "@toyo.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "東洋学園大学",
-        "address": "tyg",
+        "address": "@tyg.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "二松學舍大学",
-        "address": "nishogakusha-u",
+        "address": "@nishogakusha-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本大学",
-        "address": "nihon-u",
+        "address": "@nihon-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本医科大学",
-        "address": "nms",
+        "address": "@college.nms.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本教育大学院大学",
-        "address": "kyoiku-u",
+        "address": "@kyoiku-u.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本歯科大学",
-        "address": "ndu",
+        "address": "@ndu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本社会事業大学",
-        "address": "jcsw",
+        "address": "@jcsw.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本獣医生命科学大学",
-        "address": "nvlu",
+        "address": "@nvlu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本女子大学",
-        "address": "jwu",
+        "address": "@jwu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本女子体育大学",
-        "address": "jwcpe",
+        "address": "@jwcpe.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本赤十字看護大学",
-        "address": "redcross",
+        "address": "@redcross.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本体育大学",
-        "address": "nittai",
+        "address": "@nittai.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "日本文化大学",
-        "address": "nihonbunka-u",
+        "address": "@nihonbunka-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "ハリウッド大学院大学",
-        "address": "hollywood",
+        "address": "@hollywood.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "ビジネス・ブレークスルー大学",
-        "address": "bbt",
+        "address": "@bbt.ac",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "文化学園大学",
-        "address": "bunka",
+        "address": "@bwu.bunka.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "文化ファッション大学院大学",
-        "address": "bfgu-bunka",
+        "address": "@bfgu-bunka.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "文京学院大学",
-        "address": "u-bunkyo",
+        "address": "@u-bunkyo.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "法政大学",
-        "address": "hosei",
+        "address": "@hosei.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "星薬科大学",
-        "address": "hoshi",
+        "address": "@hoshi.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "武蔵大学",
-        "address": "musashi",
+        "address": "@musashi.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "武蔵野大学",
-        "address": "musashino-u",
+        "address": "@musashino-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "武蔵野音楽大学",
-        "address": "musashino-music",
+        "address": "@musashino-music.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "武蔵野美術大学",
-        "address": "musabi",
+        "address": "@musabi.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "明治大学",
-        "address": "meiji",
+        "address": "@meiji.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "明治学院大学",
-        "address": "meijigakuin",
+        "address": "@meijigakuin.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "明治薬科大学",
-        "address": "my-pharm",
+        "address": "@my-pharm.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "明星大学",
-        "address": "meisei-u",
+        "address": "@meisei-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "目白大学",
-        "address": "mejiro",
+        "address": "@mejiro.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "ヤマザキ学園大学",
-        "address": "yamazaki",
+        "address": "@univ.yamazaki.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "立教大学",
-        "address": "rikkyo",
+        "address": "@rikkyo.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "立正大学",
-        "address": "ris",
+        "address": "@ris.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "ルーテル学院大学",
-        "address": "luther",
+        "address": "@luther.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "LEC東京リーガルマインド大学院大学",
-        "address": "lec",
+        "address": "@lec.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "和光大学",
-        "address": "wako",
+        "address": "@wako.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "早稲田大学",
-        "address": "waseda",
+        "address": "@waseda.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "敬和学園大学",
-        "address": "keiwa-c",
+        "address": "@keiwa-c.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "国際大学",
-        "address": "iuj",
+        "address": "@iuj.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "事業創造大学院大学",
-        "address": "jigyo",
+        "address": "@jigyo.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "長岡大学",
-        "address": "nagaokauniv",
+        "address": "@nagaokauniv.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "長岡造形大学",
-        "address": "nagaoka-id",
+        "address": "@nagaoka-id.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "新潟医療福祉大学",
-        "address": "nuhw",
+        "address": "@nuhw.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "新潟経営大学",
-        "address": "niigataum",
+        "address": "@niigataum.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "新潟工科大学",
-        "address": "niit",
+        "address": "@niit.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "新潟国際情報大学",
-        "address": "nuis",
+        "address": "@nuis.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "新潟産業大学",
-        "address": "nsu",
+        "address": "@nsu.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "新潟青陵大学",
-        "address": "n-seiryo",
+        "address": "@n-seiryo.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "新潟薬科大学",
-        "address": "nupals",
+        "address": "@nupals.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "新潟リハビリテーション大学",
-        "address": "nur",
+        "address": "@nur.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "健康科学大学",
-        "address": "kenkoudai",
+        "address": "@kenkoudai.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "身延山大学",
-        "address": "min",
+        "address": "@min.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "山梨英和大学",
-        "address": "yamanashi-eiwa",
+        "address": "@yamanashi-eiwa.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "山梨学院大学",
-        "address": "ygu",
+        "address": "@ygu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "佐久大学",
-        "address": "saku",
+        "address": "@saku.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "諏訪東京理科大学",
-        "address": "tus",
+        "address": "@suwa.tus.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "清泉女学院大学",
-        "address": "seisen-jc",
+        "address": "@seisen-jc.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "長野大学",
-        "address": "nagano",
+        "address": "@nagano.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "長野保健医療大学",
-        "address": "shitoku",
+        "address": "@shitoku.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "松本大学",
-        "address": "matsumoto-u",
+        "address": "@matsumoto-u.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "松本歯科大学",
-        "address": "mdu",
+        "address": "@mdu.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "高岡法科大学",
-        "address": "takaoka",
+        "address": "@takaoka.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "桐朋学園大学院大学",
-        "address": "tohomusic",
+        "address": "@tohomusic.ac.jp",
         "area": "関東甲信",
         "school_color": ""
     },
     {
         "name": "富山国際大学",
-        "address": "tuins",
+        "address": "@tuins.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "金沢医科大学",
-        "address": "kanazawa-med",
+        "address": "@kanazawa-med.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "金沢学院大学",
-        "address": "kanazawa-gu",
+        "address": "@kanazawa-gu.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "金沢工業大学",
-        "address": "kanazawa-it",
+        "address": "@kanazawa-it.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "金沢星稜大学",
-        "address": "seiryo-u",
+        "address": "@seiryo-u.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "金城大学",
-        "address": "kinjo",
+        "address": "@kinjo.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "北陸大学",
-        "address": "hokuriku-u",
+        "address": "@hokuriku-u.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "北陸学院大学",
-        "address": "hokurikugakuin",
+        "address": "@hokurikugakuin.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "仁愛大学",
-        "address": "jindai",
+        "address": "@jindai.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "福井工業大学",
-        "address": "fukui-ut",
+        "address": "@fukui-ut.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "朝日大学",
-        "address": "asahi-u",
+        "address": "@asahi-u.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "岐阜医療科学大学",
-        "address": "u-gifu-ms",
+        "address": "@u-gifu-ms.ac.jp",
         "area": "北陸",
         "school_color": ""
     },
     {
         "name": "岐阜経済大学",
-        "address": "gifu-keizai",
+        "address": "@gifu-keizai.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "岐阜女子大学",
-        "address": "gijodai",
+        "address": "@gijodai.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "岐阜聖徳学園大学",
-        "address": "shotoku",
+        "address": "@shotoku.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "中京学院大学",
-        "address": "chukyogakuin-u",
+        "address": "@chukyogakuin-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "中部学院大学",
-        "address": "chubu-gu",
+        "address": "@chubu-gu.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "東海学院大学",
-        "address": "tokaigakuin-u",
+        "address": "@tokaigakuin-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "静岡英和学院大学",
-        "address": "shizuoka-eiwa",
+        "address": "@shizuoka-eiwa.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "静岡産業大学",
-        "address": "ssu",
+        "address": "@ssu.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "静岡福祉大学",
-        "address": "suw",
+        "address": "@suw.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "静岡理工科大学",
-        "address": "sist",
+        "address": "@sist.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "聖隷クリストファー大学",
-        "address": "seirei",
+        "address": "@seirei.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "常葉大学",
-        "address": "tokoha-u",
+        "address": "@tokoha-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "浜松学院大学",
-        "address": "hgu",
+        "address": "@hgu.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "光産業創成大学院大学",
-        "address": "gpi",
+        "address": "@gpi.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "愛知大学",
-        "address": "aichi-u",
+        "address": "@aichi-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "愛知医科大学",
-        "address": "aichi-med-u",
+        "address": "@aichi-med-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "愛知学院大学",
-        "address": "agu",
+        "address": "@agu.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "愛知学泉大学",
-        "address": "gakusen",
+        "address": "@gakusen.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "愛知工科大学",
-        "address": "aut",
+        "address": "@aut.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "愛知工業大学",
-        "address": "ait",
+        "address": "@ait.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "愛知産業大学",
-        "address": "asu-g",
+        "address": "@asu-g.net",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "愛知淑徳大学",
-        "address": "aasa",
+        "address": "@aasa.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "愛知東邦大学",
-        "address": "aichi-toho",
+        "address": "@aichi-toho.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "愛知文教大学",
-        "address": "abu",
+        "address": "@abu.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "愛知みずほ大学",
-        "address": "mizuho-c",
+        "address": "@mizuho-c.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "桜花学園大学",
-        "address": "ohkagakuen-u",
+        "address": "@ohkagakuen-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "岡崎女子大学",
-        "address": "okazaki",
+        "address": "@okazaki.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "金城学院大学",
-        "address": "kinjo-u",
+        "address": "@kinjo-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "至学館大学",
-        "address": "sgk",
+        "address": "@sgk.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "修文大学",
-        "address": "shubun",
+        "address": "@shubun.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "椙山女学園大学",
-        "address": "sugiyama-u",
+        "address": "@sugiyama-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "星城大学",
-        "address": "seijoh-u",
+        "address": "@seijoh-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "大同大学",
-        "address": "daido-it",
+        "address": "@daido-it.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "中京大学",
-        "address": "chukyo-u",
+        "address": "@chukyo-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "中部大学",
-        "address": "chubu",
+        "address": "@chubu.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "東海学園大学",
-        "address": "tokaigakuen-u",
+        "address": "@tokaigakuen-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "同朋大学",
-        "address": "doho",
+        "address": "@doho.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "豊田工業大学",
-        "address": "toyota-ti",
+        "address": "@toyota-ti.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "豊橋創造大学",
-        "address": "sozo",
+        "address": "@sozo.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "名古屋音楽大学",
-        "address": "meion",
+        "address": "@meion.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "名古屋外国語大学",
-        "address": "nufs",
+        "address": "@nufs.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "名古屋学院大学",
-        "address": "ngu",
+        "address": "@ngu.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "名古屋学芸大学",
-        "address": "nuas",
+        "address": "@nuas.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "名古屋経済大学",
-        "address": "nagoya-ku",
+        "address": "@nagoya-ku.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "名古屋芸術大学",
-        "address": "nua",
+        "address": "@nua.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "名古屋産業大学",
-        "address": "nagoya-su",
+        "address": "@nagoya-su.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "名古屋商科大学",
-        "address": "nucba",
+        "address": "@nucba.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "名古屋女子大学",
-        "address": "nagoya-wu",
+        "address": "@nagoya-wu.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "名古屋造形大学",
-        "address": "nzu",
+        "address": "@nzu.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "名古屋文理大学",
-        "address": "nagoya-bunri",
+        "address": "@nagoya-bunri.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "南山大学",
-        "address": "nanzan-u",
+        "address": "@nanzan-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "日本赤十字豊田看護大学",
-        "address": "rctoyota",
+        "address": "@rctoyota.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "日本福祉大学",
-        "address": "n-fukushi",
+        "address": "@n-fukushi.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "人間環境大学",
-        "address": "uhe",
+        "address": "@uhe.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "藤田保健衛生大学",
-        "address": "fujita-hu",
+        "address": "@fujita-hu.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "名城大学",
-        "address": "meijo-u",
+        "address": "@meijo-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "皇學館大学",
-        "address": "kogakkan-u",
+        "address": "@kogakkan-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "鈴鹿医療科学大学",
-        "address": "suzuka-u",
+        "address": "@suzuka-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "鈴鹿大学",
-        "address": "suzuka-iu",
+        "address": "@suzuka-iu.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "三重中京大学",
-        "address": "mie-chukyo-u",
+        "address": "@mie-chukyo-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "四日市大学",
-        "address": "yokkaichi-u",
+        "address": "@yokkaichi-u.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "四日市看護医療大学",
-        "address": "y-nm",
+        "address": "@y-nm.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "成安造形大学",
-        "address": "seian",
+        "address": "@seian.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "聖泉大学",
-        "address": "seisen",
+        "address": "@seisen.ac.jp",
         "area": "東海",
         "school_color": ""
     },
     {
         "name": "長浜バイオ大学",
-        "address": "nagahama-i-bio",
+        "address": "@nagahama-i-bio.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "びわこ学院大学",
-        "address": "newton",
+        "address": "@newton.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "びわこ成蹊スポーツ大学",
-        "address": "biwako-seikei",
+        "address": "@biwako-seikei.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大谷大学",
-        "address": "otani",
+        "address": "@otani.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都医療科学大学",
-        "address": "kyoto-msc",
+        "address": "@kyoto-msc.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都外国語大学",
-        "address": "kufs",
+        "address": "@kufs.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都学園大学",
-        "address": "kyotogakuen",
+        "address": "@kyotogakuen.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都華頂大学",
-        "address": "kyotokacho-u",
+        "address": "@kyotokacho-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都看護大学",
-        "address": "kyotokango",
+        "address": "@kyotokango.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都光華女子大学",
-        "address": "koka",
+        "address": "@koka.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都嵯峨芸術大学",
-        "address": "kyoto-saga",
+        "address": "@kyoto-saga.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都産業大学",
-        "address": "kyoto-su",
+        "address": "@kyoto-su.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都情報大学院大学",
-        "address": "kcg",
+        "address": "@kcg.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都女子大学",
-        "address": "kyoto-wu",
+        "address": "@kyoto-wu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都精華大学",
-        "address": "kyoto-seika",
+        "address": "@kyoto-seika.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都造形芸術大学",
-        "address": "kyoto-art",
+        "address": "@kyoto-art.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都橘大学",
-        "address": "tachibana-u",
+        "address": "@tachibana-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都ノートルダム女子大学",
-        "address": "notredame",
+        "address": "@notredame.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都美術工芸大学",
-        "address": "kyobi",
+        "address": "@kyobi.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都文教大学",
-        "address": "kbu",
+        "address": "@kbu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "京都薬科大学",
-        "address": "kyoto-phu",
+        "address": "@kyoto-phu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "種智院大学",
-        "address": "shuchiin",
+        "address": "@shuchiin.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "成美大学",
-        "address": "seibi-gakuen",
+        "address": "@uv.seibi-gakuen.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "同志社大学",
-        "address": "doshisha",
+        "address": "@doshisha.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "同志社女子大学",
-        "address": "doshisha",
+        "address": "@dwc.doshisha.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "花園大学",
-        "address": "hanazono",
+        "address": "@hanazono.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "佛教大学",
-        "address": "bukkyo-u",
+        "address": "@bukkyo-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "平安女学院大学",
-        "address": "heian",
+        "address": "@heian.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "明治国際医療大学",
-        "address": "meiji-u",
+        "address": "@meiji-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "立命館大学",
-        "address": "ritsumei",
+        "address": "@ritsumei.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "龍谷大学",
-        "address": "ryukoku",
+        "address": "@ryukoku.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "藍野大学",
-        "address": "aino",
+        "address": "@univ.aino.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "追手門学院大学",
-        "address": "otemon",
+        "address": "@otemon.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪青山大学",
-        "address": "osaka-aoyama",
+        "address": "@osaka-aoyama.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪医科大学",
-        "address": "osaka-med",
+        "address": "@osaka-med.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪大谷大学",
-        "address": "osaka-ohtani",
+        "address": "@osaka-ohtani.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪音楽大学",
-        "address": "daion",
+        "address": "@daion.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪学院大学",
-        "address": "osaka-gu",
+        "address": "@osaka-gu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪河崎リハビリテーション大学",
-        "address": "kawasakigakuen",
+        "address": "@kawasakigakuen.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪観光大学",
-        "address": "tourism",
+        "address": "@tourism.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪経済大学",
-        "address": "osaka-ue",
+        "address": "@osaka-ue.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪経済法科大学",
-        "address": "keiho-u",
+        "address": "@keiho-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪芸術大学",
-        "address": "osaka-geidai",
+        "address": "@osaka-geidai.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪工業大学",
-        "address": "oit",
+        "address": "@oit.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪国際大学",
-        "address": "oiu",
+        "address": "@oiu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪産業大学",
-        "address": "osaka-sandai",
+        "address": "@osaka-sandai.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪歯科大学",
-        "address": "osaka-dent",
+        "address": "@osaka-dent.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪樟蔭女子大学",
-        "address": "osaka-shoin",
+        "address": "@osaka-shoin.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪商業大学",
-        "address": "daishodai",
+        "address": "@ouc.daishodai.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪女学院大学",
-        "address": "wilmina",
+        "address": "@wilmina.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪成蹊大学",
-        "address": "osaka-seikei",
+        "address": "@osaka-seikei.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪総合保育大学",
-        "address": "jonan",
+        "address": "@jonan.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪体育大学",
-        "address": "ouhs",
+        "address": "@ouhs.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪電気通信大学",
-        "address": "osakac",
+        "address": "@osakac.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪人間科学大学",
-        "address": "ohs",
+        "address": "@ohs.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪物療大学",
-        "address": "butsuryo",
+        "address": "@butsuryo.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪保健医療大学",
-        "address": "ohsu",
+        "address": "@ohsu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪薬科大学",
-        "address": "oups",
+        "address": "@oups.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大阪行岡医療大学",
-        "address": "yukioka-u",
+        "address": "@yukioka-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "関西大学",
-        "address": "kansai-u",
+        "address": "@kansai-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "関西医科大学",
-        "address": "kmu",
+        "address": "@kmu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "関西医療大学",
-        "address": "kansai",
+        "address": "@kansai.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "関西外国語大学",
-        "address": "kansaigaidai",
+        "address": "@kansaigaidai.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "関西福祉科学大学",
-        "address": "fuksi-kagk-u",
+        "address": "@fuksi-kagk-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "近畿大学",
-        "address": "kindai",
+        "address": "@kindai.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "滋慶医療科学大学院大学",
-        "address": "ghsj",
+        "address": "@ghsj.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "四條畷学園大学",
-        "address": "shijonawate-gakuen",
+        "address": "@shijonawate-gakuen.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "四天王寺大学",
-        "address": "shitennoji",
+        "address": "@shitennoji.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "摂南大学",
-        "address": "setsunan",
+        "address": "@setsunan.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "千里金蘭大学",
-        "address": "kinran",
+        "address": "@kinran.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "相愛大学",
-        "address": "soai",
+        "address": "@soai.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "太成学院大学",
-        "address": "tgu",
+        "address": "@tgu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "帝塚山学院大学",
-        "address": "tezuka-gu",
+        "address": "@tezuka-gu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "常磐会学園大学",
-        "address": "sftokiwakai",
+        "address": "@sftokiwakai.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "梅花女子大学",
-        "address": "baika",
+        "address": "@baika.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "羽衣国際大学",
-        "address": "hagoromo",
+        "address": "@hagoromo.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "阪南大学",
-        "address": "hannan-u",
+        "address": "@hannan-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "東大阪大学",
-        "address": "higashiosaka",
+        "address": "@higashiosaka.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "プール学院大学",
-        "address": "poole",
+        "address": "@poole.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "桃山学院大学",
-        "address": "andrew",
+        "address": "@andrew.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "森ノ宮医療大学",
-        "address": "morinomiya-u",
+        "address": "@morinomiya-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大和大学",
-        "address": "yamato-u",
+        "address": "@yamato-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "芦屋大学",
-        "address": "ashiya-u",
+        "address": "@ashiya-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "大手前大学",
-        "address": "otemae",
+        "address": "@otemae.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "関西看護医療大学",
-        "address": "kki",
+        "address": "@kki.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "関西国際大学",
-        "address": "kuins",
+        "address": "@kuins.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "関西福祉大学",
-        "address": "kusw",
+        "address": "@kusw.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "関西学院大学",
-        "address": "kwansei",
+        "address": "@kwansei.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "姫路大学",
-        "address": "kindaihimeji-u",
+        "address": "@kindaihimeji-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "甲子園大学",
-        "address": "koshien",
+        "address": "@koshien.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "甲南大学",
-        "address": "konan-u",
+        "address": "@konan-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "甲南女子大学",
-        "address": "konan-wu",
+        "address": "@konan-wu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "神戸医療福祉大学",
-        "address": "kinwu",
+        "address": "@kinwu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "神戸海星女子学院大学",
-        "address": "kaisei",
+        "address": "@kaisei.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "神戸学院大学",
-        "address": "kobegakuin",
+        "address": "@kobegakuin.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "神戸芸術工科大学",
-        "address": "kobe-du",
+        "address": "@kobe-du.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "神戸国際大学",
-        "address": "kobe-kiu",
+        "address": "@kobe-kiu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "神戸松蔭女子学院大学",
-        "address": "shoin",
+        "address": "@shoin.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "神戸情報大学院大学",
-        "address": "kic",
+        "address": "@kic.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "神戸女学院大学",
-        "address": "kobe-c",
+        "address": "@kobe-c.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "神戸女子大学",
-        "address": "kobe-wu",
+        "address": "@yg.kobe-wu.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "神戸親和女子大学",
-        "address": "kobe-shinwa",
+        "address": "@kobe-shinwa.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "神戸常盤大学",
-        "address": "kobe-tokiwa",
+        "address": "@kobe-tokiwa.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "神戸薬科大学",
-        "address": "kobepharma-u",
+        "address": "@kobepharma-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "神戸山手大学",
-        "address": "kobe-yamate",
+        "address": "@kobe-yamate.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "聖トマス大学",
-        "address": "thomas",
+        "address": "@st.thomas.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "園田学園女子大学",
-        "address": "sonoda-u",
+        "address": "@sonoda-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "宝塚大学",
-        "address": "takara-univ",
+        "address": "@takara-univ.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "宝塚医療大学",
-        "address": "tumh",
+        "address": "@tumh.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "姫路獨協大学",
-        "address": "himeji-du",
+        "address": "@himeji-du.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "兵庫大学",
-        "address": "hyogo-dai",
+        "address": "@hyogo-dai.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "兵庫医科大学",
-        "address": "hyo-med",
+        "address": "@hyo-med.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "兵庫医療大学",
-        "address": "huhs",
+        "address": "@huhs.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "武庫川女子大学",
-        "address": "mukogawa-u",
+        "address": "@mukogawa-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "流通科学大学",
-        "address": "umds",
+        "address": "@umds.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "畿央大学",
-        "address": "kio",
+        "address": "@kio.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "帝塚山大学",
-        "address": "tezukayama-u",
+        "address": "@tezukayama-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "天理医療大学",
-        "address": "tenriyorozu-u",
+        "address": "@tenriyorozu-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "天理大学",
-        "address": "tenri-u",
+        "address": "@tenri-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "奈良大学",
-        "address": "nara-u",
+        "address": "@nara-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "奈良学園大学",
-        "address": "naragakuen-u",
+        "address": "@naragakuen-u.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "高野山大学",
-        "address": "koyasan-u",
+        "address": "@koyasan-u.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "鳥取看護大学",
-        "address": "tcn",
+        "address": "@tcn.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "岡山学院大学",
-        "address": "owc",
+        "address": "@owc.ac.jp",
         "area": "近畿",
         "school_color": ""
     },
     {
         "name": "岡山商科大学",
-        "address": "osu",
+        "address": "@osu.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "岡山理科大学",
-        "address": "ous",
+        "address": "@ous.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "川崎医科大学",
-        "address": "kawasaki-m",
+        "address": "@kawasaki-m.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "川崎医療福祉大学",
-        "address": "kawasaki-m",
+        "address": "@kawasaki-m.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "環太平洋大学",
-        "address": "ipu-japan",
+        "address": "@ipu-japan.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "吉備国際大学",
-        "address": "kiui",
+        "address": "@kiui.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "倉敷芸術科学大学",
-        "address": "kusa",
+        "address": "@kusa.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "くらしき作陽大学",
-        "address": "ksu",
+        "address": "@ksu.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "山陽学園大学",
-        "address": "sguc",
+        "address": "@sguc.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "就実大学",
-        "address": "shujitsu",
+        "address": "@shujitsu.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "中国学園大学",
-        "address": "cjc",
+        "address": "@cjc.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "ノートルダム清心女子大学",
-        "address": "ndsu",
+        "address": "@ndsu.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "美作大学",
-        "address": "mimasaka",
+        "address": "@mimasaka.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "エリザベト音楽大学",
-        "address": "eum",
+        "address": "@eum.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "日本赤十字広島看護大学",
-        "address": "jrchcn",
+        "address": "@jrchcn.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "比治山大学",
-        "address": "hijiyama-u",
+        "address": "@hijiyama-u.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "広島経済大学",
-        "address": "hue",
+        "address": "@hue.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "広島工業大学",
-        "address": "it-hiroshima",
+        "address": "@it-hiroshima.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "広島国際大学",
-        "address": "hirokoku-u",
+        "address": "@hirokoku-u.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "広島国際学院大学",
-        "address": "hkg",
+        "address": "@hkg.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "広島修道大学",
-        "address": "shudo-u",
+        "address": "@shudo-u.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "広島女学院大学",
-        "address": "hju",
+        "address": "@hju.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "広島都市学園大学",
-        "address": "hcu",
+        "address": "@hcu.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "広島文化学園大学",
-        "address": "hbg",
+        "address": "@bwu.hbg.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "広島文教女子大学",
-        "address": "h-bunkyo",
+        "address": "@h-bunkyo.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "福山大学",
-        "address": "fukuyama-u",
+        "address": "@fukuyama-u.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "福山平成大学",
-        "address": "heisei-u",
+        "address": "@heisei-u.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "安田女子大学",
-        "address": "yasuda-u",
+        "address": "@yasuda-u.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "宇部フロンティア大学",
-        "address": "frontier-u",
+        "address": "@frontier-u.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "至誠館大学",
-        "address": "shiseikan",
+        "address": "@shiseikan.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "東亜大学",
-        "address": "toua-u",
+        "address": "@toua-u.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "徳山大学",
-        "address": "tokuyama-u",
+        "address": "@tokuyama-u.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "梅光学院大学",
-        "address": "baiko",
+        "address": "@baiko.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "山口学芸大学",
-        "address": "y-gakugei",
+        "address": "@y-gakugei.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "四国大学",
-        "address": "shikoku-u",
+        "address": "@shikoku-u.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "徳島文理大学",
-        "address": "bunri-u",
+        "address": "@bunri-u.ac.jp",
         "area": "中国",
         "school_color": ""
     },
     {
         "name": "四国学院大学",
-        "address": "sg-u",
+        "address": "@sg-u.ac.jp",
         "area": "四国",
         "school_color": ""
     },
     {
         "name": "高松大学",
-        "address": "takamatsu-u",
+        "address": "@takamatsu-u.ac.jp",
         "area": "四国",
         "school_color": ""
     },
     {
         "name": "聖カタリナ大学",
-        "address": "scu-exam",
+        "address": "@scu-exam.com",
         "area": "四国",
         "school_color": ""
     },
     {
         "name": "松山大学",
-        "address": "matsuyama-u",
+        "address": "@matsuyama-u.ac.jp",
         "area": "四国",
         "school_color": ""
     },
     {
         "name": "松山東雲女子大学",
-        "address": "shinonome",
+        "address": "@shinonome.ac.jp",
         "area": "四国",
         "school_color": ""
     },
     {
         "name": "九州栄養福祉大学",
-        "address": "knwu",
+        "address": "@knwu.ac.jp",
         "area": "四国",
         "school_color": ""
     },
     {
         "name": "九州共立大学",
-        "address": "kyukyo-u",
+        "address": "@kyukyo-u.ac.jp",
         "area": "四国",
         "school_color": ""
     },
     {
         "name": "九州国際大学",
-        "address": "kiu",
+        "address": "@kiu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "九州産業大学",
-        "address": "kyusan-u",
+        "address": "@kyusan-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "九州情報大学",
-        "address": "kiis",
+        "address": "@kiis.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "九州女子大学",
-        "address": "kwuc",
+        "address": "@kwuc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "久留米大学",
-        "address": "kurume-u",
+        "address": "@kurume-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "久留米工業大学",
-        "address": "kurume-it",
+        "address": "@kurume-it.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "サイバー大学",
-        "address": "cyber-u",
+        "address": "@cyber-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "産業医科大学",
-        "address": "uoeh-u",
+        "address": "@uoeh-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "純真学園大学",
-        "address": "junshin-u",
+        "address": "@junshin-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "西南学院大学",
-        "address": "seinan-gu",
+        "address": "@seinan-gu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "西南女学院大学",
-        "address": "seinan-jo",
+        "address": "@seinan-jo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "聖マリア学院大学",
-        "address": "st-mary",
+        "address": "@st-mary.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "第一薬科大学",
-        "address": "daiichi-cps",
+        "address": "@daiichi-cps.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "筑紫女学園大学",
-        "address": "chikushi-u",
+        "address": "@chikushi-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "中村学園大学",
-        "address": "nakamura-u",
+        "address": "@nakamura-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "西日本工業大学",
-        "address": "nishitech",
+        "address": "@nishitech.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "日本経済大学",
-        "address": "jue",
+        "address": "@jue.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "日本赤十字九州国際看護大学",
-        "address": "jrckicn",
+        "address": "@jrckicn.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "福岡大学",
-        "address": "fukuoka-u",
+        "address": "@fukuoka-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "福岡医療福祉大学",
-        "address": "dfu",
+        "address": "@dfu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "福岡工業大学",
-        "address": "fit",
+        "address": "@fit.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "福岡国際大学",
-        "address": "fukuoka-int-u",
+        "address": "@fukuoka-int-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "福岡歯科大学",
-        "address": "fdcnet",
+        "address": "@fdcnet.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "福岡女学院大学",
-        "address": "fukujo",
+        "address": "@fukujo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "福岡女学院看護大学",
-        "address": "fukujo",
+        "address": "@fukujo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "保健医療経営大学",
-        "address": "healthcare-m",
+        "address": "@healthcare-m.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "西九州大学",
-        "address": "nisikyu-u",
+        "address": "@nisikyu-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "活水女子大学",
-        "address": "kwassui",
+        "address": "@kwassui.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "長崎ウエスレヤン大学",
-        "address": "wesleyan",
+        "address": "@wesleyan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "長崎外国語大学",
-        "address": "nagasaki-gaigo",
+        "address": "@nagasaki-gaigo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "長崎国際大学",
-        "address": "niu",
+        "address": "@niu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "長崎純心大学",
-        "address": "n-junshin",
+        "address": "@n-junshin.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "長崎総合科学大学",
-        "address": "nias",
+        "address": "@nias.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "九州看護福祉大学",
-        "address": "kyushu-ns",
+        "address": "@kyushu-ns.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "九州ルーテル学院大学",
-        "address": "klc",
+        "address": "@klc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "熊本学園大学",
-        "address": "kumagaku",
+        "address": "@kumagaku.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "熊本保健科学大学",
-        "address": "kumamoto-hsu",
+        "address": "@kumamoto-hsu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "尚絅大学",
-        "address": "shokei-gakuen",
+        "address": "@shokei-gakuen.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "崇城大学",
-        "address": "sojo-u",
+        "address": "@sojo-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "平成音楽大学",
-        "address": "heisei-music",
+        "address": "@heisei-music.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "日本文理大学",
-        "address": "nbu",
+        "address": "@nbu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "別府大学",
-        "address": "beppu-u",
+        "address": "@beppu-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "立命館アジア太平洋大学",
-        "address": "apu",
+        "address": "@apu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "九州保健福祉大学",
-        "address": "phoenix",
+        "address": "@phoenix.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "南九州大学",
-        "address": "nankyudai",
+        "address": "@nankyudai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "宮崎国際大学",
-        "address": "mic",
+        "address": "@mic.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "宮崎産業経営大学",
-        "address": "miyasankei-u",
+        "address": "@miyasankei-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "鹿児島国際大学",
-        "address": "iuk",
+        "address": "@iuk.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "鹿児島純心女子大学",
-        "address": "k-junshin",
+        "address": "@k-junshin.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "志學館大学",
-        "address": "shigakukan",
+        "address": "@shigakukan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "第一工業大学",
-        "address": "daiichi-koudai",
+        "address": "@daiichi-koudai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "沖縄大学",
-        "address": "okinawa-u",
+        "address": "@okinawa-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "沖縄科学技術大学院大学",
-        "address": "oist",
+        "address": "@oist.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "沖縄キリスト教学院大学",
-        "address": "ocjc",
+        "address": "@ocjc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "沖縄国際大学",
-        "address": "okiu",
+        "address": "@okiu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "名寄市立大学短期大学部",
-        "address": "nayoro",
+        "address": "@nayoro.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "岩手県立大学宮古短期大学部",
-        "address": "iwate-pu",
+        "address": "@iwate-pu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "岩手県立大学盛岡短期大学部",
-        "address": "iwate-pu",
+        "address": "@iwate-pu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "山形県立米沢女子短期大学",
-        "address": "yone",
+        "address": "@yone.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "会津大学短期大学部",
-        "address": "u-aizu",
+        "address": "@u-aizu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "川崎市立看護短期大学",
-        "address": "kawasaki-nursing-c",
+        "address": "@kawasaki-nursing-c.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大月短期大学",
-        "address": "ohtsuki",
+        "address": "@ohtsuki.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "長野県短期大学",
-        "address": "nagano-kentan",
+        "address": "@nagano-kentan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "岐阜市立女子短期大学",
-        "address": "gifu-cwc",
+        "address": "@gifu-cwc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "静岡県立大学短期大学部",
-        "address": "u-shizuoka-ken",
+        "address": "@u-shizuoka-ken.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "三重短期大学",
-        "address": "tsu-cc",
+        "address": "@tsu-cc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "島根県立大学短期大学部",
-        "address": "u-shimane",
+        "address": "@u-shimane.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "倉敷市立短期大学",
-        "address": "kurashiki-cu",
+        "address": "@kurashiki-cu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "新見公立短期大学",
-        "address": "niimi-c",
+        "address": "@niimi-c.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "高知短期大学",
-        "address": "u-kochi",
+        "address": "@u-kochi.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大分県立芸術文化短期大学",
-        "address": "oita-pjc",
+        "address": "@oita-pjc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "鹿児島県立短期大学",
-        "address": "k-kentan",
+        "address": "@k-kentan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "旭川大学短期大学部",
-        "address": "asahikawa-u",
+        "address": "@asahikawa-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "帯広大谷短期大学",
-        "address": "oojc",
+        "address": "@oojc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "釧路短期大学",
-        "address": "midorigaoka",
+        "address": "@midorigaoka.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "光塩学園女子短期大学",
-        "address": "koen",
+        "address": "@koen.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "國學院大學北海道短期大学部",
-        "address": "kokugakuin-jc",
+        "address": "@kokugakuin-jc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "札幌大谷大学短期大学部",
-        "address": "sapporo-otani",
+        "address": "@sapporo-otani.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "札幌国際大学短期大学部",
-        "address": "siu",
+        "address": "@siu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "札幌大学女子短期大学部",
-        "address": "sapporo-u",
+        "address": "@sapporo-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "拓殖大学北海道短期大学",
-        "address": "takushoku-hc",
+        "address": "@takushoku-hc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "函館大谷短期大学",
-        "address": "hakodate-otani",
+        "address": "@hakodate-otani.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "函館短期大学",
-        "address": "hakodate-jc",
+        "address": "@hakodate-jc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "北翔大学短期大学部",
-        "address": "hokusho-u",
+        "address": "@hokusho-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "北星学園大学短期大学部",
-        "address": "hokusei",
+        "address": "@hokusei.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "北海道科学大学短期大学部",
-        "address": "haec",
+        "address": "@haec.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "北海道武蔵女子短期大学",
-        "address": "musashi-jc",
+        "address": "@musashi-jc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "青森明の星短期大学",
-        "address": "aomori-akenohoshi",
+        "address": "@aomori-akenohoshi.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "青森中央短期大学",
-        "address": "chutan",
+        "address": "@chutan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東北女子短期大学",
-        "address": "toutan",
+        "address": "@toutan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "八戸学院短期大学",
-        "address": "hachinohe-u",
+        "address": "@hachinohe-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "弘前医療福祉大学短期大学部",
-        "address": "hirosakiuhw",
+        "address": "@hirosakiuhw.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "岩手看護短期大学",
-        "address": "iwate-nurse",
+        "address": "@iwate-nurse.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "修紅短期大学",
-        "address": "shuko",
+        "address": "@shuko.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "盛岡大学短期大学部",
-        "address": "morioka-u",
+        "address": "@morioka-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "聖和学園短期大学",
-        "address": "seiwa",
+        "address": "@seiwa.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "仙台青葉学院短期大学",
-        "address": "seiyogakuin",
+        "address": "@seiyogakuin.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東北生活文化大学短期大学部",
-        "address": "mishima",
+        "address": "@mishima.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "宮城誠真短期大学",
-        "address": "miyagi-seishin",
+        "address": "@miyagi-seishin.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "秋田栄養短期大学",
-        "address": "akita-eiyo",
+        "address": "@akita-eiyo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "聖霊女子短期大学",
-        "address": "seirei-wjc",
+        "address": "@seirei-wjc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "日本赤十字秋田短期大学",
-        "address": "rcakita",
+        "address": "@rcakita.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "聖園学園短期大学",
-        "address": "misono-jc",
+        "address": "@misono-jc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "羽陽学園短期大学",
-        "address": "uyo",
+        "address": "@uyo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東北文教大学短期大学部",
-        "address": "t-bunkyo",
+        "address": "@t-bunkyo.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "いわき短期大学",
-        "address": "shk",
+        "address": "@shk.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "郡山女子大学短期大学部",
-        "address": "koriyama-kgc",
+        "address": "@koriyama-kgc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "桜の聖母短期大学",
-        "address": "sakuranoseibo",
+        "address": "@sakuranoseibo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "福島学院大学短期大学部",
-        "address": "fukushima-college",
+        "address": "@fukushima-college.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "茨城女子短期大学",
-        "address": "taisei",
+        "address": "@taisei.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "つくば国際短期大学",
-        "address": "ktt",
+        "address": "@ktt.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "常磐短期大学",
-        "address": "tokiwa",
+        "address": "@tokiwa.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "足利短期大学",
-        "address": "ashikaga",
+        "address": "@ashikaga.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "宇都宮短期大学",
-        "address": "ujc",
+        "address": "@ujc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "宇都宮文星短期大学",
-        "address": "bunsei",
+        "address": "@bunsei.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "國學院大學栃木短期大学",
-        "address": "kokugakuintochigi",
+        "address": "@kokugakuintochigi.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "作新学院大学女子短期大学部",
-        "address": "sakushin-u",
+        "address": "@sakushin-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "佐野短期大学",
-        "address": "sanotan",
+        "address": "@sanotan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "育英短期大学",
-        "address": "ikuei-g",
+        "address": "@ikuei-g.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "関東短期大学",
-        "address": "kanto-gakuen",
+        "address": "@kanto-gakuen.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "桐生大学短期大学部",
-        "address": "kiryu-u",
+        "address": "@kiryu-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "群馬医療福祉大学短期大学部",
-        "address": "shoken-gakuen",
+        "address": "@shoken-gakuen.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "高崎商科大学短期大学部",
-        "address": "tuc",
+        "address": "@tuc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東京福祉大学短期大学部",
-        "address": "tokyo-fukushi",
+        "address": "@tokyo-fukushi.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "新島学園短期大学",
-        "address": "niitan",
+        "address": "@niitan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "明和学園短期大学",
-        "address": "hirakatagakuen",
+        "address": "@hirakatagakuen.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "秋草学園短期大学",
-        "address": "akikusa",
+        "address": "@akikusa.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "浦和大学短期大学部",
-        "address": "urawa",
+        "address": "@urawa.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "川口短期大学",
-        "address": "kawaguchi",
+        "address": "@kawaguchi.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "国際学院埼玉短期大学",
-        "address": "kgef",
+        "address": "@kgef.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "埼玉医科大学短期大学",
-        "address": "saitama-med",
+        "address": "@saitama-med.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "埼玉純真短期大学",
-        "address": "sai-junshin",
+        "address": "@sai-junshin.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "埼玉女子短期大学",
-        "address": "saijo",
+        "address": "@saijo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "埼玉東萌短期大学",
-        "address": "saitamatoho",
+        "address": "@saitamatoho.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "城西短期大学",
-        "address": "josai",
+        "address": "@josai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "武蔵丘短期大学",
-        "address": "musashigaoka",
+        "address": "@musashigaoka.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "武蔵野短期大学",
-        "address": "musa",
+        "address": "@musa.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "山村学園短期大学",
-        "address": "yamamura-tandai",
+        "address": "@yamamura-tandai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "植草学園短期大学",
-        "address": "uekusa",
+        "address": "@uekusa.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "昭和学院短期大学",
-        "address": "showagakuin",
+        "address": "@showagakuin.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "聖徳大学短期大学部",
-        "address": "seitoku",
+        "address": "@seitoku.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "清和大学短期大学部",
-        "address": "seiwa-jc",
+        "address": "@seiwa-jc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "千葉敬愛短期大学",
-        "address": "chibakeiai",
+        "address": "@chibakeiai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "千葉経済大学短期大学部",
-        "address": "chiba-kc",
+        "address": "@chiba-kc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "千葉明徳短期大学",
-        "address": "chibameitoku",
+        "address": "@chibameitoku.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東京経営短期大学",
-        "address": "tmc-ipd",
+        "address": "@tmc-ipd.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "愛国学園短期大学",
-        "address": "aikoku-jc",
+        "address": "@aikoku-jc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "青山学院女子短期大学",
-        "address": "aoyama",
+        "address": "@aoyama.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "亜細亜大学短期大学部",
-        "address": "asia-u",
+        "address": "@asia-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "有明教育芸術短期大学",
-        "address": "ariake",
+        "address": "@ariake.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "上野学園大学短期大学部",
-        "address": "uenogakuen",
+        "address": "@uenogakuen.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大妻女子大学短期大学部",
-        "address": "otsuma",
+        "address": "@gakuin.otsuma.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "共立女子短期大学",
-        "address": "kyoritsu-wu",
+        "address": "@kyoritsu-wu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "国際短期大学",
-        "address": "kokutan",
+        "address": "@kokutan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "駒沢女子短期大学",
-        "address": "komajo",
+        "address": "@komajo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "実践女子大学短期大学部",
-        "address": "jissen",
+        "address": "@jissen.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "自由が丘産能短期大学",
-        "address": "sanno",
+        "address": "@sanno.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "淑徳大学短期大学部",
-        "address": "shukutoku",
+        "address": "@shukutoku.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "女子栄養大学短期大学部",
-        "address": "eiyo",
+        "address": "@eiyo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "女子美術大学短期大学部",
-        "address": "joshibi",
+        "address": "@joshibi.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "白梅学園短期大学",
-        "address": "shiraume",
+        "address": "@shiraume.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "杉野服飾大学短期大学部",
-        "address": "sugino",
+        "address": "@sugino.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "星美学園短期大学",
-        "address": "seibi",
+        "address": "@seibi.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "創価女子短期大学",
-        "address": "soka",
+        "address": "@soka.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "鶴川女子短期大学",
-        "address": "tsurukawatandai",
+        "address": "@tsurukawatandai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "帝京大学短期大学",
-        "address": "teikyo-u",
+        "address": "@teikyo-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "帝京短期大学",
-        "address": "teikyo-jc",
+        "address": "@teikyo-jc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "貞静学園短期大学",
-        "address": "teisei",
+        "address": "@teisei.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "戸板女子短期大学",
-        "address": "toita",
+        "address": "@toita.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東京家政大学短期大学部",
-        "address": "tokyo-kasei",
+        "address": "@tokyo-kasei.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東京交通短期大学",
-        "address": "hosho",
+        "address": "@hosho.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東京女子体育短期大学",
-        "address": "twcpe",
+        "address": "@twcpe.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東京成徳短期大学",
-        "address": "tsc",
+        "address": "@tsc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東京農業大学短期大学部",
-        "address": "nodai",
+        "address": "@nodai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東京立正短期大学",
-        "address": "tokyorissho",
+        "address": "@tokyorissho.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東邦音楽短期大学",
-        "address": "toho-music",
+        "address": "@toho-music.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "桐朋学園芸術短期大学",
-        "address": "toho",
+        "address": "@toho.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "新渡戸文化短期大学",
-        "address": "nitobebunka",
+        "address": "@nitobebunka.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "日本歯科大学東京短期大学",
-        "address": "ndu",
+        "address": "@ndu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "日本大学短期大学部",
-        "address": "nihon-u",
+        "address": "@nihon-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "文化学園大学短期大学部",
-        "address": "bunka",
+        "address": "@bwu.bunka.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "目白大学短期大学部",
-        "address": "mejiro",
+        "address": "@mejiro.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "山野美容芸術短期大学",
-        "address": "yamano",
+        "address": "@yamano.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "立教女学院短期大学",
-        "address": "rikkyojogakuin",
+        "address": "@rikkyojogakuin.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "和泉短期大学",
-        "address": "izumi-c",
+        "address": "@izumi-c.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "小田原短期大学",
-        "address": "odawara",
+        "address": "@odawara.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "神奈川歯科大学短期大学部",
-        "address": "kdu",
+        "address": "@kdu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "鎌倉女子大学短期大学部",
-        "address": "kamakura-u",
+        "address": "@kamakura-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "相模女子大学短期大学部",
-        "address": "sagami-wu",
+        "address": "@sagami-wu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "上智大学短期大学部",
-        "address": "sophia",
+        "address": "@sophia.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "湘北短期大学",
-        "address": "shohoku",
+        "address": "@shohoku.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "昭和音楽大学短期大学部",
-        "address": "tosei-showa-music",
+        "address": "@tosei-showa-music.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "聖セシリア女子短期大学",
-        "address": "cecilia-wjc",
+        "address": "@cecilia-wjc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "洗足こども短期大学",
-        "address": "senzoku",
+        "address": "@senzoku.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "鶴見大学短期大学部",
-        "address": "tsurumi-u",
+        "address": "@tsurumi-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東海大学医療技術短期大学",
-        "address": "u-tokai",
+        "address": "@u-tokai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "横浜女子短期大学",
-        "address": "yokotan",
+        "address": "@yokotan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "新潟工業短期大学",
-        "address": "niigata-ct",
+        "address": "@niigata-ct.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "新潟青陵大学短期大学部",
-        "address": "n-seiryo",
+        "address": "@n-seiryo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "新潟中央短期大学",
-        "address": "niigatachuoh-jc",
+        "address": "@niigatachuoh-jc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "日本歯科大学新潟短期大学",
-        "address": "ndu",
+        "address": "@ndu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "明倫短期大学",
-        "address": "meirin-c",
+        "address": "@meirin-c.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "帝京学園短期大学",
-        "address": "teikyo-gjc",
+        "address": "@teikyo-gjc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "山梨学院短期大学",
-        "address": "ygjc",
+        "address": "@ygjc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "飯田女子短期大学",
-        "address": "iidawjc",
+        "address": "@iidawjc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "上田女子短期大学",
-        "address": "uedawjc",
+        "address": "@uedawjc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "佐久大学信州短期大学部",
-        "address": "saku",
+        "address": "@saku.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "信州豊南短期大学",
-        "address": "honan",
+        "address": "@honan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "清泉女学院短期大学",
-        "address": "seisen-jc",
+        "address": "@seisen-jc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "長野女子短期大学",
-        "address": "nagajo-junior-college",
+        "address": "@nagajo-junior-college.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "松本大学松商短期大学部",
-        "address": "matsu",
+        "address": "@matsu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "松本短期大学",
-        "address": "matsutan",
+        "address": "@matsutan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "富山短期大学",
-        "address": "toyama-c",
+        "address": "@toyama-c.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "富山福祉短期大学",
-        "address": "urayama",
+        "address": "@urayama.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "金沢学院短期大学",
-        "address": "kanazawa-gu",
+        "address": "@kanazawa-gu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "金沢星稜大学女子短期大学部",
-        "address": "seiryo",
+        "address": "@seiryo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "金城大学短期大学部",
-        "address": "kinjo",
+        "address": "@kinjo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "小松短期大学",
-        "address": "komatsu-c",
+        "address": "@komatsu-c.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "北陸学院大学短期大学部",
-        "address": "hokurikugakuin",
+        "address": "@hokurikugakuin.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "仁愛女子短期大学",
-        "address": "jin-ai",
+        "address": "@jin-ai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "福井医療短期大学",
-        "address": "f-gh",
+        "address": "@f-gh.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大垣女子短期大学",
-        "address": "ogaki-tandai",
+        "address": "@ogaki-tandai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "岐阜聖徳学園大学短期大学部",
-        "address": "shotoku",
+        "address": "@shotoku.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "岐阜保健短期大学",
-        "address": "toyota",
+        "address": "@toyota.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "正眼短期大学",
-        "address": "shogen",
+        "address": "@shogen.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "高山自動車短期大学",
-        "address": "takayamacollege",
+        "address": "@takayamacollege.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "中京学院大学中京短期大学部",
-        "address": "chukyogakuin-u",
+        "address": "@chukyogakuin-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "中部学院大学短期大学部",
-        "address": "chubu-gu",
+        "address": "@chubu-gu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東海学院大学短期大学部",
-        "address": "tokaigakuin-u",
+        "address": "@tokaigakuin-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "中日本自動車短期大学",
-        "address": "nakanihon",
+        "address": "@nakanihon.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "平成医療短期大学",
-        "address": "heisei-iryou",
+        "address": "@heisei-iryou.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "静岡英和学院大学短期大学部",
-        "address": "shizuoka-eiwa",
+        "address": "@shizuoka-eiwa.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東海大学短期大学部",
-        "address": "u-tokai",
+        "address": "@u-tokai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "常葉大学短期大学部",
-        "address": "tokoha-jc",
+        "address": "@tokoha-jc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "浜松学院大学短期大学部",
-        "address": "hgu",
+        "address": "@hgu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "愛知医療学院短期大学",
-        "address": "yuai",
+        "address": "@yuai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "愛知学院大学短期大学部",
-        "address": "agu",
+        "address": "@agu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "愛知学泉短期大学",
-        "address": "gakusen",
+        "address": "@gakusen.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "愛知きわみ看護短期大学",
-        "address": "aichi-kiwami",
+        "address": "@aichi-kiwami.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "愛知工科大学自動車短期大学",
-        "address": "aut",
+        "address": "@aut.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "愛知江南短期大学",
-        "address": "konan",
+        "address": "@konan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "愛知産業大学短期大学",
-        "address": "sua",
+        "address": "@sua.net",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "愛知大学短期大学部",
-        "address": "aichi-u",
+        "address": "@aichi-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "愛知文教女子短期大学",
-        "address": "ai-bunkyo",
+        "address": "@ai-bunkyo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "愛知みずほ大学短期大学部",
-        "address": "mizuho-c",
+        "address": "@mizuho-c.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "岡崎女子短期大学",
-        "address": "okazaki-c",
+        "address": "@okazaki-c.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "至学館大学短期大学部",
-        "address": "sgk",
+        "address": "@sgk.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "修文大学短期大学部",
-        "address": "shubun",
+        "address": "@shubun.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "豊橋創造大学短期大学部",
-        "address": "sozo",
+        "address": "@sozo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "名古屋学芸大学短期大学部",
-        "address": "nuas-jc",
+        "address": "@nuas-jc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "名古屋経営短期大学",
-        "address": "nagoya-su",
+        "address": "@nagoya-su.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "名古屋経済大学短期大学部",
-        "address": "nagoya-ku",
+        "address": "@nagoya-ku.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "名古屋女子大学短期大学部",
-        "address": "nagoya-wu",
+        "address": "@nagoya-wu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "名古屋短期大学",
-        "address": "nagoyacollege",
+        "address": "@nagoyacollege.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "名古屋文化短期大学",
-        "address": "nfcc-nagoya",
+        "address": "@nfcc-nagoya.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "名古屋文理大学短期大学部",
-        "address": "nagoya-bunri",
+        "address": "@nagoya-bunri.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "名古屋柳城短期大学",
-        "address": "ryujo",
+        "address": "@ryujo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "南山大学短期大学部",
-        "address": "nanzan-u",
+        "address": "@nanzan-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "鈴鹿大学短期大学部",
-        "address": "suzuka-jc",
+        "address": "@suzuka-jc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "高田短期大学",
-        "address": "takada-jc",
+        "address": "@takada-jc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "滋賀短期大学",
-        "address": "sumire",
+        "address": "@sumire.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "滋賀文教短期大学",
-        "address": "s-bunkyo",
+        "address": "@s-bunkyo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "びわこ学院大学短期大学部",
-        "address": "newton",
+        "address": "@newton.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "池坊短期大学",
-        "address": "ikenobo-c",
+        "address": "@ikenobo-c.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大谷大学短期大学部",
-        "address": "otani",
+        "address": "@otani.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "華頂短期大学",
-        "address": "kacho-college",
+        "address": "@kacho-college.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "京都外国語短期大学",
-        "address": "kufs",
+        "address": "@kufs.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "京都経済短期大学",
-        "address": "kyoto-econ",
+        "address": "@kyoto-econ.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "京都光華女子大学短期大学部",
-        "address": "koka",
+        "address": "@koka.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "京都嵯峨芸術大学短期大学部",
-        "address": "kyoto-saga",
+        "address": "@kyoto-saga.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "京都西山短期大学",
-        "address": "seizan",
+        "address": "@seizan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "京都聖母女学院短期大学",
-        "address": "seibo",
+        "address": "@seibo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "京都文教短期大学",
-        "address": "kbu",
+        "address": "@kbu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "成美大学短期大学部",
-        "address": "seibi-gakuen",
+        "address": "@uv.seibi-gakuen.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "龍谷大学短期大学部",
-        "address": "ryukoku",
+        "address": "@ryukoku.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "藍野大学短期大学部",
-        "address": "aino",
+        "address": "@univ.aino.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大阪青山大学短期大学部",
-        "address": "osaka-aoyama",
+        "address": "@osaka-aoyama.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大阪音楽大学短期大学部",
-        "address": "daion",
+        "address": "@daion.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大阪学院大学短期大学部",
-        "address": "osaka-gu",
+        "address": "@osaka-gu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大阪キリスト教短期大学",
-        "address": "occ",
+        "address": "@occ.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大阪芸術大学短期大学部",
-        "address": "osaka-geidai",
+        "address": "@osaka-geidai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大阪健康福祉短期大学",
-        "address": "kenko-fukushi",
+        "address": "@kenko-fukushi.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大阪国際大学短期大学部",
-        "address": "oiu",
+        "address": "@oiu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大阪城南女子短期大学",
-        "address": "jonan",
+        "address": "@jonan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大阪女学院短期大学",
-        "address": "wilmina",
+        "address": "@wilmina.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大阪女子短期大学",
-        "address": "owjc",
+        "address": "@owjc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大阪信愛女学院短期大学",
-        "address": "osaka-shinai",
+        "address": "@osaka-shinai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大阪成蹊短期大学",
-        "address": "osaka-seikei",
+        "address": "@osaka-seikei.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大阪千代田短期大学",
-        "address": "chiyoda",
+        "address": "@chiyoda.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大阪夕陽丘学園短期大学",
-        "address": "oyg",
+        "address": "@oyg.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "関西外国語大学短期大学部",
-        "address": "kansaigaidai",
+        "address": "@kansaigaidai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "関西女子短期大学",
-        "address": "kwc",
+        "address": "@kwc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "近畿大学短期大学部",
-        "address": "kindai",
+        "address": "@kindai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "堺女子短期大学",
-        "address": "sakai",
+        "address": "@sakai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "四條畷学園短期大学",
-        "address": "shijonawate-gakuen",
+        "address": "@shijonawate-gakuen.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "四天王寺大学短期大学部",
-        "address": "shitennoji",
+        "address": "@shitennoji.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "常磐会短期大学",
-        "address": "tokiwakai",
+        "address": "@tokiwakai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東大阪大学短期大学部",
-        "address": "higashiosaka",
+        "address": "@higashiosaka.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "プール学院大学短期大学部",
-        "address": "poole",
+        "address": "@poole.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "平安女学院大学短期大学部",
-        "address": "heian",
+        "address": "@heian.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "芦屋学園短期大学",
-        "address": "ashiya-c",
+        "address": "@ashiya-c.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大手前短期大学",
-        "address": "otemae",
+        "address": "@otemae.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "近畿大学豊岡短期大学",
-        "address": "koutoku",
+        "address": "@koutoku.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "甲子園短期大学",
-        "address": "koshien-c",
+        "address": "@koshien-c.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "神戸女子短期大学",
-        "address": "kobe-wu",
+        "address": "@kobe-wu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "神戸常盤大学短期大学部",
-        "address": "kobe-tokiwa",
+        "address": "@kobe-tokiwa.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "神戸山手短期大学",
-        "address": "kobe-yamate",
+        "address": "@kobe-yamate.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "産業技術短期大学",
-        "address": "sangitan",
+        "address": "@sangitan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "夙川学院短期大学",
-        "address": "shukugawa-c",
+        "address": "@shukugawa-c.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "頌栄短期大学",
-        "address": "glory-shoei",
+        "address": "@glory-shoei.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "聖和短期大学",
-        "address": "kwansei",
+        "address": "@kwansei.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "園田学園女子大学短期大学部",
-        "address": "sonoda-u",
+        "address": "@sonoda-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東洋食品工業短期大学",
-        "address": "toshoku",
+        "address": "@toshoku.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "姫路日ノ本短期大学",
-        "address": "himeji-hc",
+        "address": "@himeji-hc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "兵庫大学短期大学部",
-        "address": "hyogo-dai",
+        "address": "@hyogo-dai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "湊川短期大学",
-        "address": "minatogawa",
+        "address": "@minatogawa.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "武庫川女子大学短期大学部",
-        "address": "mukogawa-u",
+        "address": "@mukogawa-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "奈良学園大学奈良文化女子短期大学部",
-        "address": "narabunka",
+        "address": "@narabunka.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "奈良芸術短期大学",
-        "address": "naragei",
+        "address": "@naragei.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "奈良佐保短期大学",
-        "address": "narasaho-c",
+        "address": "@narasaho-c.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "白鳳短期大学",
-        "address": "hakuho",
+        "address": "@hakuho.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "和歌山信愛女子短期大学",
-        "address": "shinai-u",
+        "address": "@shinai-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "鳥取短期大学",
-        "address": "cygnus",
+        "address": "@cygnus.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "岡山短期大学",
-        "address": "owc",
+        "address": "@owc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "川崎医療短期大学",
-        "address": "kawasaki-m",
+        "address": "@kawasaki-m.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "作陽音楽短期大学",
-        "address": "hisc",
+        "address": "@hisc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "山陽学園短期大学",
-        "address": "sguc",
+        "address": "@sguc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "就実短期大学",
-        "address": "shujitsu",
+        "address": "@shujitsu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "中国短期大学",
-        "address": "cjc",
+        "address": "@cjc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "美作大学短期大学部",
-        "address": "mimasaka",
+        "address": "@mimasaka.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "山陽女子短期大学",
-        "address": "sanyo",
+        "address": "@sanyo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "鈴峯女子短期大学",
-        "address": "suzugamine",
+        "address": "@suzugamine.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "比治山大学短期大学部",
-        "address": "hijiyama-u",
+        "address": "@hijiyama-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "広島国際学院大学自動車短期大学部",
-        "address": "hkg",
+        "address": "@hkg.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "広島文化学園短期大学",
-        "address": "hbg",
+        "address": "@hbg.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "安田女子短期大学",
-        "address": "yasuda-u",
+        "address": "@yasuda-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "岩国短期大学",
-        "address": "iwakuni",
+        "address": "@iwakuni.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "宇部フロンティア大学短期大学部",
-        "address": "ube-c",
+        "address": "@ube-c.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "下関短期大学",
-        "address": "shimonoseki-jc",
+        "address": "@shimonoseki-jc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "山口芸術短期大学",
-        "address": "yamaguchi-jca",
+        "address": "@yamaguchi-jca.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "山口短期大学",
-        "address": "yamaguchi-jc",
+        "address": "@yamaguchi-jc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "四国大学短期大学部",
-        "address": "shikoku-u",
+        "address": "@shikoku-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "徳島工業短期大学",
-        "address": "tokuco",
+        "address": "@tokuco.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "徳島文理大学短期大学部",
-        "address": "bunri-u",
+        "address": "@bunri-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "香川短期大学",
-        "address": "kjc",
+        "address": "@kjc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "高松短期大学",
-        "address": "takamatsu-u",
+        "address": "@takamatsu-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "今治明徳短期大学",
-        "address": "meitan",
+        "address": "@meitan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "環太平洋大学短期大学部",
-        "address": "aitan",
+        "address": "@aitan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "聖カタリナ大学短期大学部",
-        "address": "catherine",
+        "address": "@catherine.com",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "松山東雲短期大学",
-        "address": "shinonome",
+        "address": "@shinonome.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "松山短期大学",
-        "address": "matsuyama-u",
+        "address": "@matsuyama-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "高知学園短期大学",
-        "address": "kochi-gc",
+        "address": "@kochi-gc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "折尾愛真短期大学",
-        "address": "orioaishin",
+        "address": "@orioaishin.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "九州大谷短期大学",
-        "address": "kyushuotani",
+        "address": "@kyushuotani.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "九州女子短期大学",
-        "address": "kwuc",
+        "address": "@kwuc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "九州造形短期大学",
-        "address": "kyusan-u",
+        "address": "@kyusan-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "近畿大学九州短期大学",
-        "address": "kindai",
+        "address": "@kindai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "久留米信愛女学院短期大学",
-        "address": "kurume-shinai",
+        "address": "@kurume-shinai.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "香蘭女子短期大学",
-        "address": "koran",
+        "address": "@koran.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "純真短期大学",
-        "address": "junshin-c",
+        "address": "@junshin-c.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "精華女子短期大学",
-        "address": "seika",
+        "address": "@seika.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "西南女学院大学短期大学部",
-        "address": "seinan-jo",
+        "address": "@seinan-jo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東海大学福岡短期大学",
-        "address": "ftokai-u",
+        "address": "@ftokai-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "中村学園大学短期大学部",
-        "address": "nakamura-u",
+        "address": "@nakamura-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "西日本短期大学",
-        "address": "nishitan",
+        "address": "@nishitan.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東筑紫短期大学",
-        "address": "hcc",
+        "address": "@hcc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "福岡医療短期大学",
-        "address": "fdcnet",
+        "address": "@fdcnet.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "福岡工業大学短期大学部",
-        "address": "fit",
+        "address": "@fit.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "福岡こども短期大学",
-        "address": "fukuoka-kodomo",
+        "address": "@fukuoka-kodomo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "福岡女学院大学短期大学部",
-        "address": "fukujo",
+        "address": "@fukujo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "福岡女子短期大学",
-        "address": "fukuoka-wjc",
+        "address": "@fukuoka-wjc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "九州龍谷短期大学",
-        "address": "k-ryukoku",
+        "address": "@k-ryukoku.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "佐賀女子短期大学",
-        "address": "asahigakuen",
+        "address": "@asahigakuen.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "西九州大学短期大学部",
-        "address": "nisikyu-u",
+        "address": "@nisikyu-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "長崎女子短期大学",
-        "address": "nagasaki-joshi",
+        "address": "@nagasaki-joshi.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "長崎短期大学",
-        "address": "njc",
+        "address": "@njc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "尚絅大学短期大学部",
-        "address": "shokei-gakuen",
+        "address": "@shokei-gakuen.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "中九州短期大学",
-        "address": "nkjc",
+        "address": "@nkjc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "大分短期大学",
-        "address": "d-b",
+        "address": "@d-b.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "東九州短期大学",
-        "address": "higashikyusyu",
+        "address": "@higashikyusyu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "別府大学短期大学部",
-        "address": "beppu-u",
+        "address": "@beppu-u.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "別府溝部学園短期大学",
-        "address": "mizobe",
+        "address": "@mizobe.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "南九州短期大学",
-        "address": "mkjc",
+        "address": "@mkjc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "宮崎学園短期大学",
-        "address": "mwjc",
+        "address": "@mwjc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "鹿児島純心女子短期大学",
-        "address": "k-junshin",
+        "address": "@k-junshin.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "鹿児島女子短期大学",
-        "address": "jkajyo",
+        "address": "@jkajyo.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "第一幼児教育短期大学",
-        "address": "tsuzuki-edu",
+        "address": "@tsuzuki-edu.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "沖縄キリスト教短期大学",
-        "address": "ocjc",
+        "address": "@ocjc.ac.jp",
         "area": "九州",
         "school_color": ""
     },
     {
         "name": "沖縄女子短期大学",
-        "address": "owjc",
+        "address": "@owjc.ac.jp",
         "area": "九州",
         "school_color": ""
     }
